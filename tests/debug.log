@@ -1,0 +1,27 @@
+2025-05-04 21:10:44,113 [DEBUG] Using selector: EpollSelector
+2025-05-04 21:10:44,882 [INFO] Запуск теста: test_login_failure[chromium] | Браузер: chromium | Файл: test_login.py
+2025-05-04 21:10:46,294 [INFO] Проверка логирования с невалидными данными
+2025-05-04 21:10:46,448 [INFO] Проверка сообщения об ошибке
+2025-05-04 21:10:46,485 [INFO] Запуск теста: test_login_success[chromium-user-user] | Браузер: chromium | Файл: test_login.py
+2025-05-04 21:10:46,947 [ERROR] Тест 'tests/test_login.py::test_login_success[chromium-user-user]' завершился с ошибкой:
+playwright._impl._errors.Error: Page.goto: net::ERR_CONNECTION_RESET at https://zimaev.github.io/pom/
+Call log:
+  - navigating to "https://zimaev.github.io/pom/", waiting until "load"
+2025-05-04 21:10:46,948 [INFO] Запуск теста: test_login_success[chromium-admin-admin] | Браузер: chromium | Файл: test_login.py
+2025-05-04 21:10:47,501 [INFO] Проверка логирования с валидными данными
+2025-05-04 21:11:19,359 [DEBUG] Using selector: EpollSelector
+2025-05-04 21:11:19,796 [INFO] Запуск теста: test_login_failure[chromium] | Браузер: chromium | Файл: test_login.py
+2025-05-04 21:11:20,414 [INFO] Проверка логирования с невалидными данными
+2025-05-04 21:11:20,557 [INFO] Проверка сообщения об ошибке
+2025-05-04 21:11:20,598 [INFO] Запуск теста: test_login_success[chromium-user-user] | Браузер: chromium | Файл: test_login.py
+2025-05-04 21:11:21,208 [INFO] Проверка логирования с валидными данными
+2025-05-04 21:11:21,893 [INFO] Запуск теста: test_login_success[chromium-admin-admin] | Браузер: chromium | Файл: test_login.py
+2025-05-04 21:11:22,812 [INFO] Проверка логирования с валидными данными
+2025-05-04 21:14:24,585 [DEBUG] Using selector: EpollSelector
+2025-05-04 21:14:25,900 [INFO] Запуск теста: test_login_failure[firefox] | Браузер: firefox | Файл: test_login.py
+2025-05-04 21:14:28,863 [INFO] Проверка логирования с невалидными данными
+2025-05-04 21:14:32,066 [INFO] Проверка сообщения об ошибке
+2025-05-04 21:14:32,158 [INFO] Запуск теста: test_login_success[firefox-user-user] | Браузер: firefox | Файл: test_login.py
+2025-05-04 21:14:34,564 [INFO] Проверка логирования с валидными данными
+2025-05-04 21:14:37,931 [INFO] Запуск теста: test_login_success[firefox-admin-admin] | Браузер: firefox | Файл: test_login.py
+2025-05-04 21:14:45,891 [INFO] Проверка логирования с валидными данными
