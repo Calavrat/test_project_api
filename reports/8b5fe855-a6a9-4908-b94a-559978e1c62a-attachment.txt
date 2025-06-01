@@ -1,0 +1,6 @@
+2025-05-31 22:03:34,256 [DEBUG] Using selector: EpollSelector
+2025-05-31 22:03:35,401 [INFO] Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
+2025-05-31 22:03:37,245 [INFO] Статус код: 200
+2025-05-31 22:03:37,245 [INFO] Content-Type:" application/json
+2025-05-31 22:03:37,254 [INFO] JSON Response: {'status': 'success', 'data': {'name': 'John Doe', 'salary': '5000', 'age': '30', 'id': 2325}, 'message': 'Successfully! Record has been added.'}
+2025-05-31 22:03:37,254 [INFO] Созданный ID сотрудника: 2325

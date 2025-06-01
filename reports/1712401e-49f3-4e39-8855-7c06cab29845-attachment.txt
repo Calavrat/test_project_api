@@ -1,0 +1,5 @@
+[35mDEBUG   [0m asyncio:selector_events.py:64 Using selector: EpollSelector
+[32mINFO    [0m root:conftest.py:39 Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
+[32mINFO    [0m root:dummy_page.py:13 Попытка 1 — Запрос: GET https://dummy.restapiexample.com/api/v1/employee/21
+[32mINFO    [0m root:dummy_page.py:76 Статус код: 200
+[32mINFO    [0m root:dummy_page.py:77 Cотрудник c id21: {'status': 'success', 'data': {'id': 21, 'employee_name': 'Jenette Caldwell', 'employee_salary': 345000, 'employee_age': 30, 'profile_image': ''}, 'message': 'Successfully! Record has been fetched.'}

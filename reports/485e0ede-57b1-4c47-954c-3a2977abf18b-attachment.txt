@@ -1,0 +1,2 @@
+2025-05-21 10:54:00,470 [INFO] Запуск теста: test_login_success[chromium-admin-admin] | Браузер: chromium | Файл: test_login.py
+2025-05-21 10:54:00,993 [INFO] Проверка логирования с валидными данными

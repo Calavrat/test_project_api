@@ -1,0 +1,5 @@
+[35mDEBUG   [0m asyncio:selector_events.py:64 Using selector: EpollSelector
+[32mINFO    [0m root:conftest.py:39 Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
+[32mINFO    [0m root:dummy_page.py:46 Статус код: 429
+[32mINFO    [0m root:dummy_page.py:52 Content-Type:" application/json
+[32mINFO    [0m root:dummy_page.py:56 JSON Response: {'message': 'Too Many Attempts.'}

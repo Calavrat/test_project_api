@@ -1,4 +1,3 @@
 playwright_project_2_env/
 __pycache__/
 *.pyc
-.env

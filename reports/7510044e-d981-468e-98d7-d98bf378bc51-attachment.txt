@@ -1,0 +1,14 @@
+2025-05-31 22:27:20,714 [DEBUG] Using selector: EpollSelector
+2025-05-31 22:27:21,816 [INFO] Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
+2025-05-31 22:27:23,682 [INFO] Статус код: 200
+2025-05-31 22:27:23,683 [INFO] Content-Type:" application/json
+2025-05-31 22:27:23,687 [INFO] JSON Response: {'status': 'success', 'data': {'name': 'John Doe', 'salary': '5000', 'age': '30', 'id': 1020}, 'message': 'Successfully! Record has been added.'}
+2025-05-31 22:27:23,688 [INFO] Созданный ID сотрудника: 1020
+2025-05-31 22:27:23,688 [INFO] Попытка 1 — Запрос: GET https://dummy.restapiexample.com/api/v1/employee/1020
+2025-05-31 22:27:24,384 [WARNING] Получен 429 Too Many Requests. Жду 5 секунд...
+2025-05-31 22:27:34,393 [INFO] Попытка 2 — Запрос: GET https://dummy.restapiexample.com/api/v1/employee/1020
+2025-05-31 22:27:36,261 [WARNING] Получен 429 Too Many Requests. Жду 5 секунд...
+2025-05-31 22:27:46,261 [INFO] Попытка 3 — Запрос: GET https://dummy.restapiexample.com/api/v1/employee/1020
+2025-05-31 22:27:47,840 [WARNING] Получен 429 Too Many Requests. Жду 5 секунд...
+2025-05-31 22:27:57,905 [ERROR] Тест 'tests/test_api.py::test_create_employess[firefox]' завершился с ошибкой:
+Exception: Не удалось выполнить запрос после 3 попыток

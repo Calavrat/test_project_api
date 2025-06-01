@@ -1,0 +1,9 @@
+[35mDEBUG   [0m asyncio:selector_events.py:64 Using selector: EpollSelector
+[32mINFO    [0m root:conftest.py:39 Запуск теста: test_list_employees[chromium] | Браузер: chromium | Файл: test_api.py
+[31m[1mERROR   [0m root:conftest.py:72 Тест 'tests/test_api.py::test_list_employees[chromium]' завершился с ошибкой:
+playwright._impl._errors.Error: APIRequestContext.get: socket hang up
+Call log:
+  - → GET https://dummy.restapiexample.com/api/v1/employees
+    - user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.7103.25 Safari/537.36
+    - accept: */*
+    - accept-encoding: gzip,deflate,br

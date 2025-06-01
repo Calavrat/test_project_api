@@ -1,0 +1,11 @@
+[35mDEBUG   [0m asyncio:selector_events.py:64 Using selector: EpollSelector
+[32mINFO    [0m root:conftest.py:39 Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
+[32mINFO    [0m root:dummy_page.py:46 Статус код: 200
+[32mINFO    [0m root:dummy_page.py:52 Content-Type:" application/json
+[32mINFO    [0m root:dummy_page.py:56 JSON Response: {'status': 'success', 'data': {'name': 'John Doe', 'salary': '5000', 'age': '30', 'id': 2077}, 'message': 'Successfully! Record has been added.'}
+[32mINFO    [0m root:dummy_page.py:59 Созданный ID сотрудника: 2077
+[32mINFO    [0m root:dummy_page.py:13 Попытка 1 — Запрос: GET https://dummy.restapiexample.com/api/v1/employee/2077
+[33mWARNING [0m root:dummy_page.py:23 Получен 429 Too Many Requests. Жду 5 секунд...
+[32mINFO    [0m root:dummy_page.py:13 Попытка 2 — Запрос: GET https://dummy.restapiexample.com/api/v1/employee/2077
+[32mINFO    [0m root:dummy_page.py:64 Статус код: 200
+[32mINFO    [0m root:dummy_page.py:65 Созданный сотрудник: {'status': 'success', 'data': None, 'message': 'Successfully! Record has been fetched.'}

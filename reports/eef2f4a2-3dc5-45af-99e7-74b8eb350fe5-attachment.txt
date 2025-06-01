@@ -1,0 +1,9 @@
+[32mINFO    [0m root:conftest.py:39 Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
+[32mINFO    [0m root:dummy_page.py:25 Статус код: 406
+[31m[1mERROR   [0m root:conftest.py:72 Тест 'tests/test_api.py::test_create_employess[firefox]' завершился с ошибкой:
+playwright._impl._errors.Error: APIRequestContext.get: socket hang up
+Call log:
+  - → GET https://dummy.restapiexample.com/api/v1/employee/1
+    - user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0
+    - accept: */*
+    - accept-encoding: gzip,deflate,br

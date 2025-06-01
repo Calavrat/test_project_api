@@ -1,0 +1,69 @@
+2025-05-31 22:17:42,058 [DEBUG] Using selector: EpollSelector
+2025-05-31 22:17:43,192 [INFO] Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
+2025-05-31 22:17:53,932 [INFO] Статус код: 200
+2025-05-31 22:17:53,934 [INFO] Content-Type:" application/json
+2025-05-31 22:17:53,939 [INFO] JSON Response: {'status': 'success', 'data': {'name': 'John Doe', 'salary': '5000', 'age': '30', 'id': 8229}, 'message': 'Successfully! Record has been added.'}
+2025-05-31 22:17:53,939 [INFO] Созданный ID сотрудника: 8229
+2025-05-31 22:18:03,979 [WARNING] Попытка: Получен 429. Жду 5 секунд...
+2025-05-31 22:18:08,980 [INFO] Статус код: 429
+2025-05-31 22:18:08,986 [INFO] Созданный сотрудник: <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+

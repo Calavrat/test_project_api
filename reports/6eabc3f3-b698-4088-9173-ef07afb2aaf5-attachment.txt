@@ -1,0 +1,4 @@
+[32mINFO    [0m root:conftest.py:39 Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
+[32mINFO    [0m root:dummy_page.py:25 Статус код: 406
+[31m[1mERROR   [0m root:conftest.py:72 Тест 'tests/test_api.py::test_create_employess[firefox]' завершился с ошибкой:
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

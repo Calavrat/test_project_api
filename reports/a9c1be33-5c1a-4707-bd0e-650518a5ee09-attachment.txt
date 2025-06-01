@@ -1,0 +1,13 @@
+2025-05-31 22:40:28,562 [DEBUG] Using selector: EpollSelector
+2025-05-31 22:40:29,943 [INFO] Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
+2025-05-31 22:40:31,777 [INFO] Статус код: 200
+2025-05-31 22:40:31,778 [INFO] Content-Type:" application/json
+2025-05-31 22:40:31,787 [INFO] JSON Response: {'status': 'success', 'data': {'name': 'John Doe', 'salary': '5000', 'age': '30', 'id': 8679}, 'message': 'Successfully! Record has been added.'}
+2025-05-31 22:40:31,787 [INFO] Созданный ID сотрудника: 8679
+2025-05-31 22:40:31,787 [INFO] Попытка 1 — Запрос: GET https://dummy.restapiexample.com/api/v1/employee/21
+2025-05-31 22:40:32,203 [WARNING] Получен 429 Too Many Requests. Жду 5 секунд...
+2025-05-31 22:41:02,212 [INFO] Попытка 2 — Запрос: GET https://dummy.restapiexample.com/api/v1/employee/21
+2025-05-31 22:41:03,380 [WARNING] Получен 429 Too Many Requests. Жду 5 секунд...
+2025-05-31 22:41:33,381 [INFO] Попытка 3 — Запрос: GET https://dummy.restapiexample.com/api/v1/employee/21
+2025-05-31 22:41:35,038 [INFO] Статус код: 200
+2025-05-31 22:41:35,045 [INFO] Созданный сотрудник: {'status': 'success', 'data': {'id': 21, 'employee_name': 'Jenette Caldwell', 'employee_salary': 345000, 'employee_age': 30, 'profile_image': ''}, 'message': 'Successfully! Record has been fetched.'}

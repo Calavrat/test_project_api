@@ -1,0 +1,8 @@
+2025-06-01 13:04:50,690 [INFO] Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
+2025-06-01 13:04:50,900 [INFO] Попытка 1 — Запрос: GET https://dummy.restapiexample.com/api/v1/employee/21
+2025-06-01 13:04:52,594 [WARNING] Получен 429 Too Many Requests. Жду 30 секунд...
+2025-06-01 13:05:22,594 [INFO] Попытка 2 — Запрос: GET https://dummy.restapiexample.com/api/v1/employee/21
+2025-06-01 13:05:23,824 [WARNING] Получен 429 Too Many Requests. Жду 30 секунд...
+2025-06-01 13:05:53,824 [INFO] Попытка 3 — Запрос: GET https://dummy.restapiexample.com/api/v1/employee/21
+2025-06-01 13:05:54,850 [INFO] Статус код: 200
+2025-06-01 13:05:54,855 [INFO] Cотрудник c id 21: {'status': 'success', 'data': {'id': 21, 'employee_name': 'Jenette Caldwell', 'employee_salary': 345000, 'employee_age': 30, 'profile_image': ''}, 'message': 'Successfully! Record has been fetched.'}

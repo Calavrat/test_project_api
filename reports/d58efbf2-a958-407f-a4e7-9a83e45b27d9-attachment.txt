@@ -1,0 +1,5 @@
+[32mINFO    [0m root:conftest.py:35 Запуск теста: test_login_success[chromium-user-user] | Браузер: chromium | Файл: test_login.py
+[1m[31mERROR   [0m root:conftest.py:68 Тест 'tests/test_login.py::test_login_success[chromium-user-user]' завершился с ошибкой:
+playwright._impl._errors.Error: Page.goto: net::ERR_CONNECTION_RESET at https://zimaev.github.io/pom/
+Call log:
+  - navigating to "https://zimaev.github.io/pom/", waiting until "load"

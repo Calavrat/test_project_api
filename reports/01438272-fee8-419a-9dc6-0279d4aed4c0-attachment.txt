@@ -1,0 +1,8 @@
+2025-05-31 22:24:25,893 [DEBUG] Using selector: EpollSelector
+2025-05-31 22:24:27,114 [INFO] Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
+2025-05-31 22:24:29,605 [INFO] Статус код: 200
+2025-05-31 22:24:29,606 [INFO] Content-Type:" application/json
+2025-05-31 22:24:29,615 [INFO] JSON Response: {'status': 'success', 'data': {'name': 'John Doe', 'salary': '5000', 'age': '30', 'id': 5281}, 'message': 'Successfully! Record has been added.'}
+2025-05-31 22:24:29,615 [INFO] Созданный ID сотрудника: 5281
+2025-05-31 22:24:29,664 [ERROR] Тест 'tests/test_api.py::test_create_employess[firefox]' завершился с ошибкой:
+NameError: name 'send_api_request' is not defined

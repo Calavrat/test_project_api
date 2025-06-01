@@ -1,0 +1,3 @@
+2025-05-31 21:21:16,638 [INFO] Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
+2025-05-31 21:21:17,047 [ERROR] Тест 'tests/test_api.py::test_create_employess[firefox]' завершился с ошибкой:
+AttributeError: 'str' object has no attribute 'items'

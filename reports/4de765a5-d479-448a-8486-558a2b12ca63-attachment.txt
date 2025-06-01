@@ -1,0 +1,8 @@
+2025-05-31 22:08:41,087 [DEBUG] Using selector: EpollSelector
+2025-05-31 22:08:42,330 [INFO] Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
+2025-05-31 22:08:44,650 [INFO] Статус код: 200
+2025-05-31 22:08:44,651 [INFO] Content-Type:" application/json
+2025-05-31 22:08:44,660 [INFO] JSON Response: {'status': 'success', 'data': {'name': 'John Doe', 'salary': '5000', 'age': '30', 'id': 9876}, 'message': 'Successfully! Record has been added.'}
+2025-05-31 22:08:44,661 [INFO] Созданный ID сотрудника: 9876
+2025-05-31 22:08:45,262 [INFO] Статус код: 404
+2025-05-31 22:08:45,268 [INFO] Созданый сотрудник: {'message': 'Error Occured! Page Not found, contact rstapi2example@gmail.com'}

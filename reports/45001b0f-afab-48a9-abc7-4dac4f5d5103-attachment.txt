@@ -1,0 +1,1 @@
+[32mINFO    [0m root:conftest.py:39 Запуск теста: test_list_employees[firefox] | Браузер: firefox | Файл: test_api.py
