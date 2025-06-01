@@ -1,3 +1,0 @@
-Content-Type: application/json
-JSON Response: {'message': 'Too Many Attempts.'}
-ID не найден в ответе

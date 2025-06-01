@@ -1,4 +1,0 @@
-2025-06-01 14:09:40,476 [INFO] Запуск теста: test_get_employess[chromium] | Браузер: chromium | Файл: test_api.py
-2025-06-01 14:09:40,513 [INFO] Попытка 1 — Запрос: GET https://dummy.restapiexample.com/api/v1/employee/21
-2025-06-01 14:09:42,125 [INFO] Статус код: 200
-2025-06-01 14:09:42,133 [INFO] Cотрудник c id 21: {'status': 'success', 'data': {'id': 21, 'employee_name': 'Jenette Caldwell', 'employee_salary': 345000, 'employee_age': 30, 'profile_image': ''}, 'message': 'Successfully! Record has been fetched.'}

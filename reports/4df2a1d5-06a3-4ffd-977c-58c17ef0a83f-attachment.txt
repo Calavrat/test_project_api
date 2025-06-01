@@ -1,3 +1,0 @@
-2025-05-31 21:32:51,169 [DEBUG] Using selector: EpollSelector
-2025-05-31 21:32:52,056 [INFO] Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
-2025-05-31 21:32:53,656 [INFO] Статус код: 200

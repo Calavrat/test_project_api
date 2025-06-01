@@ -1,5 +1,0 @@
-2025-05-31 20:52:09,898 [DEBUG] Using selector: EpollSelector
-2025-05-31 20:52:10,688 [INFO] Запуск теста: test_list_employees[firefox] | Браузер: firefox | Файл: test_api.py
-2025-05-31 20:52:20,700 [INFO] Статус код: 429
-2025-05-31 20:52:20,873 [ERROR] Тест 'tests/test_api.py::test_list_employees[firefox]' завершился с ошибкой:
-json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

@@ -1,4 +1,0 @@
-2025-06-01 14:19:14,040 [INFO] Запуск теста: test_create_employess[chromium] | Браузер: chromium | Файл: test_api.py
-2025-06-01 14:19:14,605 [INFO] Статус код: 201
-2025-06-01 14:19:14,605 [INFO] Content-Type:" application/json; charset=utf-8
-2025-06-01 14:19:14,611 [INFO] JSON Response: {'title': 'TITLE', 'body': 'BODY', 'userId': 1, 'id': 101}

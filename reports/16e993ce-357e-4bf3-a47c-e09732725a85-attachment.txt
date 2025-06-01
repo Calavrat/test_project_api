@@ -1,2 +1,0 @@
-[35mDEBUG   [0m asyncio:selector_events.py:64 Using selector: EpollSelector
-[32mINFO    [0m root:conftest.py:39 Запуск теста: test_list_employees[chromium] | Браузер: chromium | Файл: test_api.py

@@ -1,4 +1,0 @@
-2025-06-01 15:19:50,643 [INFO] Запуск теста: test_get_post[chromium] | Браузер: chromium | Файл: test_api.py
-2025-06-01 15:19:50,683 [INFO] Попытка 1 — Запрос: GET https://jsonplaceholder.typicode.com/posts/21
-2025-06-01 15:19:50,790 [INFO] Статус код: 200
-2025-06-01 15:19:50,793 [INFO] Ресурс c id 21: {'userId': 3, 'id': 21, 'title': 'asperiores ea ipsam voluptatibus modi minima quia sint', 'body': 'repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt'}

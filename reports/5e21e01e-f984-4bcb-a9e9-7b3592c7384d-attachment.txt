@@ -1,4 +1,0 @@
-[32mINFO    [0m root:conftest.py:39 Запуск теста: test_create_employess[chromium] | Браузер: chromium | Файл: test_api.py
-[32mINFO    [0m root:dummy_page.py:46 Статус код: 201
-[32mINFO    [0m root:dummy_page.py:52 Content-Type:" application/json; charset=utf-8
-[32mINFO    [0m root:dummy_page.py:56 JSON Response: {'title': 'TITLE', 'body': 'BODY', 'userId': 1, 'id': 101}

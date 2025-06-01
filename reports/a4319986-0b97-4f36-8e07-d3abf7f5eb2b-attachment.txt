@@ -1,6 +1,0 @@
-[35mDEBUG   [0m asyncio:selector_events.py:64 Using selector: EpollSelector
-[32mINFO    [0m root:conftest.py:39 Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
-[32mINFO    [0m root:dummy_page.py:25 Статус код: 200
-[32mINFO    [0m root:dummy_page.py:31 Content-Type:" application/json
-[32mINFO    [0m root:dummy_page.py:35 JSON Response: {'status': 'success', 'data': {'name': 'John Doe', 'salary': '5000', 'age': '30', 'id': 2325}, 'message': 'Successfully! Record has been added.'}
-[32mINFO    [0m root:dummy_page.py:38 Созданный ID сотрудника: 2325

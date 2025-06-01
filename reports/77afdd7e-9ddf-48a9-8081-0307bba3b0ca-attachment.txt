@@ -1,5 +1,0 @@
-2025-06-01 12:51:28,246 [DEBUG] Using selector: EpollSelector
-2025-06-01 12:51:29,479 [INFO] Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
-2025-06-01 12:51:30,292 [INFO] Попытка 1 — Запрос: GET https://dummy.restapiexample.com/api/v1/employee/21
-2025-06-01 12:51:32,143 [INFO] Статус код: 200
-2025-06-01 12:51:32,149 [INFO] Cотрудник c id21: {'status': 'success', 'data': {'id': 21, 'employee_name': 'Jenette Caldwell', 'employee_salary': 345000, 'employee_age': 30, 'profile_image': ''}, 'message': 'Successfully! Record has been fetched.'}

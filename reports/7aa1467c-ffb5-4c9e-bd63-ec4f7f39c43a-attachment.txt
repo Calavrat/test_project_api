@@ -1,2 +1,0 @@
-2025-05-21 10:59:28,472 [INFO] Запуск теста: test_login_success[firefox-admin-admin] | Браузер: firefox | Файл: test_login.py
-2025-05-21 10:59:29,327 [INFO] Проверка логирования с валидными данными

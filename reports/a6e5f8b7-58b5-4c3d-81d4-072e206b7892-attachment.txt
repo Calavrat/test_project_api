@@ -1,2 +1,0 @@
-2025-05-31 21:28:25,843 [INFO] Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
-2025-05-31 21:28:32,195 [INFO] Статус код: 429

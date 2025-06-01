@@ -1,3 +1,0 @@
-2025-06-01 15:19:50,351 [INFO] Запуск теста: test_create_post[chromium] | Браузер: chromium | Файл: test_api.py
-2025-06-01 15:19:50,609 [INFO] Статус код: 201
-2025-06-01 15:19:50,616 [INFO] JSON Response: {'title': 'TITLE', 'body': 'BODY', 'userId': 1, 'id': 101}

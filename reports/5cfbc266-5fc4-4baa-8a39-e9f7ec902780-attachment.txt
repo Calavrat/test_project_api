@@ -1,8 +1,0 @@
-2025-05-31 22:16:46,803 [DEBUG] Using selector: EpollSelector
-2025-05-31 22:16:47,983 [INFO] Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
-2025-05-31 22:16:51,126 [INFO] Статус код: 200
-2025-05-31 22:16:51,127 [INFO] Content-Type:" application/json
-2025-05-31 22:16:51,135 [INFO] JSON Response: {'status': 'success', 'data': {'name': 'John Doe', 'salary': '5000', 'age': '30', 'id': 1924}, 'message': 'Successfully! Record has been added.'}
-2025-05-31 22:16:51,135 [INFO] Созданный ID сотрудника: 1924
-2025-05-31 22:16:51,812 [ERROR] Тест 'tests/test_api.py::test_create_employess[firefox]' завершился с ошибкой:
-NameError: name 'attempt' is not defined

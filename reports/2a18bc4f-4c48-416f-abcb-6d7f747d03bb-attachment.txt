@@ -1,3 +1,0 @@
-[32mINFO    [0m root:conftest.py:35 Запуск теста: test_login_failure[firefox] | Браузер: firefox | Файл: test_login.py
-[32mINFO    [0m root:test_login.py:14 Проверка логирования с невалидными данными
-[32mINFO    [0m root:test_login.py:19 Проверка сообщения об ошибке

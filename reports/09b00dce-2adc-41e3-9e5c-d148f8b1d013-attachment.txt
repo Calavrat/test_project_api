@@ -1,2 +1,0 @@
-2025-05-31 17:22:18,755 [DEBUG] Using selector: EpollSelector
-2025-05-31 17:22:19,136 [INFO] Запуск теста: test_list_employees[chromium] | Браузер: chromium | Файл: test_api.py

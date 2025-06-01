@@ -1,5 +1,0 @@
-2025-06-01 13:30:35,325 [INFO] Запуск теста: test_create_employess[chromium] | Браузер: chromium | Файл: test_api.py
-2025-06-01 13:30:36,815 [INFO] Статус код: 200
-2025-06-01 13:30:36,815 [INFO] Content-Type:" application/json
-2025-06-01 13:30:36,818 [INFO] JSON Response: {'status': 'success', 'data': {'name': 'John Doe', 'salary': '5000', 'age': '30', 'id': 3906}, 'message': 'Successfully! Record has been added.'}
-2025-06-01 13:30:36,818 [INFO] Созданный ID сотрудника: 3906

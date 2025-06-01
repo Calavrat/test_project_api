@@ -1,3 +1,0 @@
-2025-05-31 17:11:14,993 [INFO] Запуск теста: test_list_employees[firefox] | Браузер: firefox | Файл: test_api.py
-2025-05-31 17:11:16,317 [ERROR] Тест 'tests/test_api.py::test_list_employees[firefox]' завершился с ошибкой:
-TypeError: DummyPage.endpointListEmployess() missing 1 required positional argument: 'self'

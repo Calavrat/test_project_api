@@ -1,4 +1,0 @@
-2025-05-31 20:49:51,035 [INFO] Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
-2025-05-31 20:49:51,699 [INFO] Статус код: 406
-2025-05-31 20:49:51,853 [ERROR] Тест 'tests/test_api.py::test_create_employess[firefox]' завершился с ошибкой:
-json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

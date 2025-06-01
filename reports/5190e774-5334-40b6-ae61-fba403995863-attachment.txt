@@ -1,3 +1,0 @@
-Content-Type: application/json
-JSON Response: {'status': 'success', 'data': {'name': 'John Doe', 'salary': '5000', 'age': '30', 'id': 5570}, 'message': 'Successfully! Record has been added.'}
-Созданный ID сотрудника: 5570

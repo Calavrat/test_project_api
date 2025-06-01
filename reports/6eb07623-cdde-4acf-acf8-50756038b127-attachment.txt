@@ -1,5 +1,0 @@
-2025-05-31 22:18:20,768 [DEBUG] Using selector: EpollSelector
-2025-05-31 22:18:21,801 [INFO] Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
-2025-05-31 22:18:23,618 [INFO] Статус код: 429
-2025-05-31 22:18:30,059 [INFO] Content-Type:" application/json
-2025-05-31 22:18:30,068 [INFO] JSON Response: {'message': 'Too Many Attempts.'}

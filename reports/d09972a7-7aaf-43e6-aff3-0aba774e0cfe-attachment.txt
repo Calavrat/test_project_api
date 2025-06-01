@@ -1,5 +1,0 @@
-2025-05-21 10:56:07,407 [INFO] Запуск теста: test_login_success[chromium-admin-admin] | Браузер: chromium | Файл: test_login.py
-2025-05-21 10:56:07,838 [ERROR] Тест 'tests/test_login.py::test_login_success[chromium-admin-admin]' завершился с ошибкой:
-playwright._impl._errors.Error: Page.goto: net::ERR_CONNECTION_RESET at https://zimaev.github.io/pom/
-Call log:
-  - navigating to "https://zimaev.github.io/pom/", waiting until "load"

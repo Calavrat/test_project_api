@@ -1,3 +1,0 @@
-[32mINFO    [0m root:conftest.py:39 Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
-[32mINFO    [0m root:dummy_page.py:25 Статус код: 406
-[32mINFO    [0m root:dummy_page.py:33 ❌ Ошибка: Ответ не является JSON

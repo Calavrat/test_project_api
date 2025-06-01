@@ -1,8 +1,0 @@
-2025-05-31 22:11:46,430 [DEBUG] Using selector: EpollSelector
-2025-05-31 22:11:47,594 [INFO] Запуск теста: test_create_employess[firefox] | Браузер: firefox | Файл: test_api.py
-2025-05-31 22:11:51,433 [INFO] Статус код: 200
-2025-05-31 22:11:51,434 [INFO] Content-Type:" application/json
-2025-05-31 22:11:51,444 [INFO] JSON Response: {'status': 'success', 'data': {'name': 'John Doe', 'salary': '5000', 'age': '30', 'id': 4554}, 'message': 'Successfully! Record has been added.'}
-2025-05-31 22:11:51,444 [INFO] Созданный ID сотрудника: 4554
-2025-05-31 22:12:09,639 [INFO] Статус код: 429
-2025-05-31 22:12:09,642 [INFO] Ошибка: Не удалось распарсить JSON

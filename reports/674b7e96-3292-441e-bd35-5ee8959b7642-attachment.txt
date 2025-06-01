@@ -1,1 +1,0 @@
-2025-05-31 17:19:17,404 [INFO] Запуск теста: test_list_employees[firefox] | Браузер: firefox | Файл: test_api.py

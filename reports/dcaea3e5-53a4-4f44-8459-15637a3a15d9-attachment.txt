@@ -1,6 +1,0 @@
-[35mDEBUG   [0m asyncio:selector_events.py:64 Using selector: EpollSelector
-[32mINFO    [0m root:conftest.py:35 Запуск теста: test_login_failure[chromium] | Браузер: chromium | Файл: test_login.py
-[31m[1mERROR   [0m root:conftest.py:68 Тест 'tests/test_login.py::test_login_failure[chromium]' завершился с ошибкой:
-playwright._impl._errors.Error: Page.goto: net::ERR_CONNECTION_RESET at https://zimaev.github.io/pom/
-Call log:
-  - navigating to "https://zimaev.github.io/pom/", waiting until "load"
