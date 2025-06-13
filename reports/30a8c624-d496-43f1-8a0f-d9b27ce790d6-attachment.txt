@@ -1,3 +1,0 @@
-[32mINFO    [0m root:conftest.py:39 Запуск теста: test_delete_post[chromium] | Браузер: chromium | Файл: test_api.py
-[32mINFO    [0m root:dummy_page.py:83 Статус код: 200
-[32mINFO    [0m root:dummy_page.py:84 Ответ об удалении {}

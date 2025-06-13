@@ -72,17 +72,6 @@ def mock_reponce_from_file(json_path: str, status: int = 200, content_type: str 
     def handler(route, request):
         logging.info(f"Перехват запроса: {request.method} {request.url}")
         logging.info(f"Используется JSON: {json_path}")
-#  Получаем оригинальный ответ от сервера
-        # original_response = await request.response()
-        # if original_response:
-        #     try:
-        #         original_body = await original_response.text()
-        #         logging.debug(f"Оригинальный ответ: {original_body}")
-        #     except Exception as e:
-        #         logging.warning(f"Не удалось получить оригинальный ответ: {e}")
-        # else:
-        #     logging.warning("Оригинальный ответ отсутствует (response = None)")
-
         logging.debug(f"Подменённый ответ: {new_data}")
 
         route.fulfill(

@@ -1,6 +1,5 @@
-from playwright.sync_api import Page
 from config import settings 
-from playwright.sync_api import Playwright, sync_playwright, expect
+from playwright.sync_api import Playwright, sync_playwright, expect,Page
 import logging
 
 class LoginPage:

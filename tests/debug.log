@@ -1,0 +1,864 @@
+2025-06-03 21:46:49,311 [DEBUG] Using selector: EpollSelector
+2025-06-03 21:46:50,124 [INFO] Запуск теста: test_list_posts[chromium] | Браузер: chromium | Файл: test_api.py
+2025-06-03 21:46:50,231 [DEBUG] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2025-06-03 21:46:50,554 [DEBUG] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
+2025-06-03 21:46:50,601 [ERROR] Тест 'tests/test_api.py::test_list_posts[chromium]' завершился с ошибкой:
+AttributeError: 'Response' object has no attribute 'status'
+2025-06-03 21:47:23,324 [DEBUG] Using selector: EpollSelector
+2025-06-03 21:47:23,723 [INFO] Запуск теста: test_list_posts[chromium] | Браузер: chromium | Файл: test_api.py
+2025-06-03 21:47:23,783 [DEBUG] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2025-06-03 21:47:24,193 [DEBUG] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
+2025-06-03 21:47:24,225 [ERROR] Тест 'tests/test_api.py::test_list_posts[chromium]' завершился с ошибкой:
+AttributeError: 'Response' object has no attribute 'status'
+2025-06-03 21:48:32,270 [DEBUG] Using selector: EpollSelector
+2025-06-03 21:48:32,658 [INFO] Запуск теста: test_list_posts[chromium] | Браузер: chromium | Файл: test_api.py
+2025-06-03 21:48:32,711 [DEBUG] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2025-06-03 21:48:33,691 [DEBUG] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
+2025-06-03 21:48:33,726 [ERROR] Тест 'tests/test_api.py::test_list_posts[chromium]' завершился с ошибкой:
+AttributeError: 'Response' object has no attribute 'status'
+2025-06-03 21:48:58,361 [DEBUG] Using selector: EpollSelector
+2025-06-03 21:48:58,749 [INFO] Запуск теста: test_list_posts[chromium] | Браузер: chromium | Файл: test_api.py
+2025-06-03 21:48:58,821 [DEBUG] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2025-06-03 21:48:59,026 [DEBUG] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
+2025-06-03 21:48:59,041 [INFO] Статус код: 200
+2025-06-03 21:48:59,042 [INFO] [{'userId': 1, 'id': 1, 'title': 'sunt aut facere repellat provident occaecati excepturi optio reprehenderit', 'body': 'quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto'}, {'userId': 1, 'id': 2, 'title': 'qui est esse', 'body': 'est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla'}, {'userId': 1, 'id': 3, 'title': 'ea molestias quasi exercitationem repellat qui ipsa sit aut', 'body': 'et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut'}, {'userId': 1, 'id': 4, 'title': 'eum et est occaecati', 'body': 'ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit'}, {'userId': 1, 'id': 5, 'title': 'nesciunt quas odio', 'body': 'repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque'}, {'userId': 1, 'id': 6, 'title': 'dolorem eum magni eos aperiam quia', 'body': 'ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae'}, {'userId': 1, 'id': 7, 'title': 'magnam facilis autem', 'body': 'dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas'}, {'userId': 1, 'id': 8, 'title': 'dolorem dolore est ipsam', 'body': 'dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae'}, {'userId': 1, 'id': 9, 'title': 'nesciunt iure omnis dolorem tempora et accusantium', 'body': 'consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas'}, {'userId': 1, 'id': 10, 'title': 'optio molestias id quia eum', 'body': 'quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error'}, {'userId': 2, 'id': 11, 'title': 'et ea vero quia laudantium autem', 'body': 'delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi'}, {'userId': 2, 'id': 12, 'title': 'in quibusdam tempore odit est dolorem', 'body': 'itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio'}, {'userId': 2, 'id': 13, 'title': 'dolorum ut in voluptas mollitia et saepe quo animi', 'body': 'aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam'}, {'userId': 2, 'id': 14, 'title': 'voluptatem eligendi optio', 'body': 'fuga et accusamus dolorum perferendis illo voluptas\nnon doloremque neque facere\nad qui dolorum molestiae beatae\nsed aut voluptas totam sit illum'}, {'userId': 2, 'id': 15, 'title': 'eveniet quod temporibus', 'body': 'reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae'}, {'userId': 2, 'id': 16, 'title': 'sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio', 'body': 'suscipit nam nisi quo aperiam aut\nasperiores eos fugit maiores voluptatibus quia\nvoluptatem quis ullam qui in alias quia est\nconsequatur magni mollitia accusamus ea nisi voluptate dicta'}, {'userId': 2, 'id': 17, 'title': 'fugit voluptas sed molestias voluptatem provident', 'body': 'eos voluptas et aut odit natus earum\naspernatur fuga molestiae ullam\ndeserunt ratione qui eos\nqui nihil ratione nemo velit ut aut id quo'}, {'userId': 2, 'id': 18, 'title': 'voluptate et itaque vero tempora molestiae', 'body': 'eveniet quo quis\nlaborum totam consequatur non dolor\nut et est repudiandae\nest voluptatem vel debitis et magnam'}, {'userId': 2, 'id': 19, 'title': 'adipisci placeat illum aut reiciendis qui', 'body': 'illum quis cupiditate provident sit magnam\nea sed aut omnis\nveniam maiores ullam consequatur atque\nadipisci quo iste expedita sit quos voluptas'}, {'userId': 2, 'id': 20, 'title': 'doloribus ad provident suscipit at', 'body': 'qui consequuntur ducimus possimus quisquam amet similique\nsuscipit porro ipsam amet\neos veritatis officiis exercitationem vel fugit aut necessitatibus totam\nomnis rerum consequatur expedita quidem cumque explicabo'}, {'userId': 3, 'id': 21, 'title': 'asperiores ea ipsam voluptatibus modi minima quia sint', 'body': 'repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt'}, {'userId': 3, 'id': 22, 'title': 'dolor sint quo a velit explicabo quia nam', 'body': 'eos qui et ipsum ipsam suscipit aut\nsed omnis non odio\nexpedita earum mollitia molestiae aut atque rem suscipit\nnam impedit esse'}, {'userId': 3, 'id': 23, 'title': 'maxime id vitae nihil numquam', 'body': 'veritatis unde neque eligendi\nquae quod architecto quo neque vitae\nest illo sit tempora doloremque fugit quod\net et vel beatae sequi ullam sed tenetur perspiciatis'}, {'userId': 3, 'id': 24, 'title': 'autem hic labore sunt dolores incidunt', 'body': 'enim et ex nulla\nomnis voluptas quia qui\nvoluptatem consequatur numquam aliquam sunt\ntotam recusandae id dignissimos aut sed asperiores deserunt'}, {'userId': 3, 'id': 25, 'title': 'rem alias distinctio quo quis', 'body': 'ullam consequatur ut\nomnis quis sit vel consequuntur\nipsa eligendi ipsum molestiae et omnis error nostrum\nmolestiae illo tempore quia et distinctio'}, {'userId': 3, 'id': 26, 'title': 'est et quae odit qui non', 'body': 'similique esse doloribus nihil accusamus\nomnis dolorem fuga consequuntur reprehenderit fugit recusandae temporibus\nperspiciatis cum ut laudantium\nomnis aut molestiae vel vero'}, {'userId': 3, 'id': 27, 'title': 'quasi id et eos tenetur aut quo autem', 'body': 'eum sed dolores ipsam sint possimus debitis occaecati\ndebitis qui qui et\nut placeat enim earum aut odit facilis\nconsequatur suscipit necessitatibus rerum sed inventore temporibus consequatur'}, {'userId': 3, 'id': 28, 'title': 'delectus ullam et corporis nulla voluptas sequi', 'body': 'non et quaerat ex quae ad maiores\nmaiores recusandae totam aut blanditiis mollitia quas illo\nut voluptatibus voluptatem\nsimilique nostrum eum'}, {'userId': 3, 'id': 29, 'title': 'iusto eius quod necessitatibus culpa ea', 'body': 'odit magnam ut saepe sed non qui\ntempora atque nihil\naccusamus illum doloribus illo dolor\neligendi repudiandae odit magni similique sed cum maiores'}, {'userId': 3, 'id': 30, 'title': 'a quo magni similique perferendis', 'body': 'alias dolor cumque\nimpedit blanditiis non eveniet odio maxime\nblanditiis amet eius quis tempora quia autem rem\na provident perspiciatis quia'}, {'userId': 4, 'id': 31, 'title': 'ullam ut quidem id aut vel consequuntur', 'body': 'debitis eius sed quibusdam non quis consectetur vitae\nimpedit ut qui consequatur sed aut in\nquidem sit nostrum et maiores adipisci atque\nquaerat voluptatem adipisci repudiandae'}, {'userId': 4, 'id': 32, 'title': 'doloremque illum aliquid sunt', 'body': 'deserunt eos nobis asperiores et hic\nest debitis repellat molestiae optio\nnihil ratione ut eos beatae quibusdam distinctio maiores\nearum voluptates et aut adipisci ea maiores voluptas maxime'}, {'userId': 4, 'id': 33, 'title': 'qui explicabo molestiae dolorem', 'body': 'rerum ut et numquam laborum odit est sit\nid qui sint in\nquasi tenetur tempore aperiam et quaerat qui in\nrerum officiis sequi cumque quod'}, {'userId': 4, 'id': 34, 'title': 'magnam ut rerum iure', 'body': 'ea velit perferendis earum ut voluptatem voluptate itaque iusto\ntotam pariatur in\nnemo voluptatem voluptatem autem magni tempora minima in\nest distinctio qui assumenda accusamus dignissimos officia nesciunt nobis'}, {'userId': 4, 'id': 35, 'title': 'id nihil consequatur molestias animi provident', 'body': 'nisi error delectus possimus ut eligendi vitae\nplaceat eos harum cupiditate facilis reprehenderit voluptatem beatae\nmodi ducimus quo illum voluptas eligendi\net nobis quia fugit'}, {'userId': 4, 'id': 36, 'title': 'fuga nam accusamus voluptas reiciendis itaque', 'body': 'ad mollitia et omnis minus architecto odit\nvoluptas doloremque maxime aut non ipsa qui alias veniam\nblanditiis culpa aut quia nihil cumque facere et occaecati\nqui aspernatur quia eaque ut aperiam inventore'}, {'userId': 4, 'id': 37, 'title': 'provident vel ut sit ratione est', 'body': 'debitis et eaque non officia sed nesciunt pariatur vel\nvoluptatem iste vero et ea\nnumquam aut expedita ipsum nulla in\nvoluptates omnis consequatur aut enim officiis in quam qui'}, {'userId': 4, 'id': 38, 'title': 'explicabo et eos deleniti nostrum ab id repellendus', 'body': 'animi esse sit aut sit nesciunt assumenda eum voluptas\nquia voluptatibus provident quia necessitatibus ea\nrerum repudiandae quia voluptatem delectus fugit aut id quia\nratione optio eos iusto veniam iure'}, {'userId': 4, 'id': 39, 'title': 'eos dolorem iste accusantium est eaque quam', 'body': 'corporis rerum ducimus vel eum accusantium\nmaxime aspernatur a porro possimus iste omnis\nest in deleniti asperiores fuga aut\nvoluptas sapiente vel dolore minus voluptatem incidunt ex'}, {'userId': 4, 'id': 40, 'title': 'enim quo cumque', 'body': 'ut voluptatum aliquid illo tenetur nemo sequi quo facilis\nipsum rem optio mollitia quas\nvoluptatem eum voluptas qui\nunde omnis voluptatem iure quasi maxime voluptas nam'}, {'userId': 5, 'id': 41, 'title': 'non est facere', 'body': 'molestias id nostrum\nexcepturi molestiae dolore omnis repellendus quaerat saepe\nconsectetur iste quaerat tenetur asperiores accusamus ex ut\nnam quidem est ducimus sunt debitis saepe'}, {'userId': 5, 'id': 42, 'title': 'commodi ullam sint et excepturi error explicabo praesentium voluptas', 'body': 'odio fugit voluptatum ducimus earum autem est incidunt voluptatem\nodit reiciendis aliquam sunt sequi nulla dolorem\nnon facere repellendus voluptates quia\nratione harum vitae ut'}, {'userId': 5, 'id': 43, 'title': 'eligendi iste nostrum consequuntur adipisci praesentium sit beatae perferendis', 'body': 'similique fugit est\nillum et dolorum harum et voluptate eaque quidem\nexercitationem quos nam commodi possimus cum odio nihil nulla\ndolorum exercitationem magnam ex et a et distinctio debitis'}, {'userId': 5, 'id': 44, 'title': 'optio dolor molestias sit', 'body': 'temporibus est consectetur dolore\net libero debitis vel velit laboriosam quia\nipsum quibusdam qui itaque fuga rem aut\nea et iure quam sed maxime ut distinctio quae'}, {'userId': 5, 'id': 45, 'title': 'ut numquam possimus omnis eius suscipit laudantium iure', 'body': 'est natus reiciendis nihil possimus aut provident\nex et dolor\nrepellat pariatur est\nnobis rerum repellendus dolorem autem'}, {'userId': 5, 'id': 46, 'title': 'aut quo modi neque nostrum ducimus', 'body': 'voluptatem quisquam iste\nvoluptatibus natus officiis facilis dolorem\nquis quas ipsam\nvel et voluptatum in aliquid'}, {'userId': 5, 'id': 47, 'title': 'quibusdam cumque rem aut deserunt', 'body': 'voluptatem assumenda ut qui ut cupiditate aut impedit veniam\noccaecati nemo illum voluptatem laudantium\nmolestiae beatae rerum ea iure soluta nostrum\neligendi et voluptate'}, {'userId': 5, 'id': 48, 'title': 'ut voluptatem illum ea doloribus itaque eos', 'body': 'voluptates quo voluptatem facilis iure occaecati\nvel assumenda rerum officia et\nillum perspiciatis ab deleniti\nlaudantium repellat ad ut et autem reprehenderit'}, {'userId': 5, 'id': 49, 'title': 'laborum non sunt aut ut assumenda perspiciatis voluptas', 'body': 'inventore ab sint\nnatus fugit id nulla sequi architecto nihil quaerat\neos tenetur in in eum veritatis non\nquibusdam officiis aspernatur cumque aut commodi aut'}, {'userId': 5, 'id': 50, 'title': 'repellendus qui recusandae incidunt voluptates tenetur qui omnis exercitationem', 'body': 'error suscipit maxime adipisci consequuntur recusandae\nvoluptas eligendi et est et voluptates\nquia distinctio ab amet quaerat molestiae et vitae\nadipisci impedit sequi nesciunt quis consectetur'}, {'userId': 6, 'id': 51, 'title': 'soluta aliquam aperiam consequatur illo quis voluptas', 'body': 'sunt dolores aut doloribus\ndolore doloribus voluptates tempora et\ndoloremque et quo\ncum asperiores sit consectetur dolorem'}, {'userId': 6, 'id': 52, 'title': 'qui enim et consequuntur quia animi quis voluptate quibusdam', 'body': 'iusto est quibusdam fuga quas quaerat molestias\na enim ut sit accusamus enim\ntemporibus iusto accusantium provident architecto\nsoluta esse reprehenderit qui laborum'}, {'userId': 6, 'id': 53, 'title': 'ut quo aut ducimus alias', 'body': 'minima harum praesentium eum rerum illo dolore\nquasi exercitationem rerum nam\nporro quis neque quo\nconsequatur minus dolor quidem veritatis sunt non explicabo similique'}, {'userId': 6, 'id': 54, 'title': 'sit asperiores ipsam eveniet odio non quia', 'body': 'totam corporis dignissimos\nvitae dolorem ut occaecati accusamus\nex velit deserunt\net exercitationem vero incidunt corrupti mollitia'}, {'userId': 6, 'id': 55, 'title': 'sit vel voluptatem et non libero', 'body': 'debitis excepturi ea perferendis harum libero optio\neos accusamus cum fuga ut sapiente repudiandae\net ut incidunt omnis molestiae\nnihil ut eum odit'}, {'userId': 6, 'id': 56, 'title': 'qui et at rerum necessitatibus', 'body': 'aut est omnis dolores\nneque rerum quod ea rerum velit pariatur beatae excepturi\net provident voluptas corrupti\ncorporis harum reprehenderit dolores eligendi'}, {'userId': 6, 'id': 57, 'title': 'sed ab est est', 'body': 'at pariatur consequuntur earum quidem\nquo est laudantium soluta voluptatem\nqui ullam et est\net cum voluptas voluptatum repellat est'}, {'userId': 6, 'id': 58, 'title': 'voluptatum itaque dolores nisi et quasi', 'body': 'veniam voluptatum quae adipisci id\net id quia eos ad et dolorem\naliquam quo nisi sunt eos impedit error\nad similique veniam'}, {'userId': 6, 'id': 59, 'title': 'qui commodi dolor at maiores et quis id accusantium', 'body': 'perspiciatis et quam ea autem temporibus non voluptatibus qui\nbeatae a earum officia nesciunt dolores suscipit voluptas et\nanimi doloribus cum rerum quas et magni\net hic ut ut commodi expedita sunt'}, {'userId': 6, 'id': 60, 'title': 'consequatur placeat omnis quisquam quia reprehenderit fugit veritatis facere', 'body': 'asperiores sunt ab assumenda cumque modi velit\nqui esse omnis\nvoluptate et fuga perferendis voluptas\nillo ratione amet aut et omnis'}, {'userId': 7, 'id': 61, 'title': 'voluptatem doloribus consectetur est ut ducimus', 'body': 'ab nemo optio odio\ndelectus tenetur corporis similique nobis repellendus rerum omnis facilis\nvero blanditiis debitis in nesciunt doloribus dicta dolores\nmagnam minus velit'}, {'userId': 7, 'id': 62, 'title': 'beatae enim quia vel', 'body': 'enim aspernatur illo distinctio quae praesentium\nbeatae alias amet delectus qui voluptate distinctio\nodit sint accusantium autem omnis\nquo molestiae omnis ea eveniet optio'}, {'userId': 7, 'id': 63, 'title': 'voluptas blanditiis repellendus animi ducimus error sapiente et suscipit', 'body': 'enim adipisci aspernatur nemo\nnumquam omnis facere dolorem dolor ex quis temporibus incidunt\nab delectus culpa quo reprehenderit blanditiis asperiores\naccusantium ut quam in voluptatibus voluptas ipsam dicta'}, {'userId': 7, 'id': 64, 'title': 'et fugit quas eum in in aperiam quod', 'body': 'id velit blanditiis\neum ea voluptatem\nmolestiae sint occaecati est eos perspiciatis\nincidunt a error provident eaque aut aut qui'}, {'userId': 7, 'id': 65, 'title': 'consequatur id enim sunt et et', 'body': 'voluptatibus ex esse\nsint explicabo est aliquid cumque adipisci fuga repellat labore\nmolestiae corrupti ex saepe at asperiores et perferendis\nnatus id esse incidunt pariatur'}, {'userId': 7, 'id': 66, 'title': 'repudiandae ea animi iusto', 'body': 'officia veritatis tenetur vero qui itaque\nsint non ratione\nsed et ut asperiores iusto eos molestiae nostrum\nveritatis quibusdam et nemo iusto saepe'}, {'userId': 7, 'id': 67, 'title': 'aliquid eos sed fuga est maxime repellendus', 'body': 'reprehenderit id nostrum\nvoluptas doloremque pariatur sint et accusantium quia quod aspernatur\net fugiat amet\nnon sapiente et consequatur necessitatibus molestiae'}, {'userId': 7, 'id': 68, 'title': 'odio quis facere architecto reiciendis optio', 'body': 'magnam molestiae perferendis quisquam\nqui cum reiciendis\nquaerat animi amet hic inventore\nea quia deleniti quidem saepe porro velit'}, {'userId': 7, 'id': 69, 'title': 'fugiat quod pariatur odit minima', 'body': 'officiis error culpa consequatur modi asperiores et\ndolorum assumenda voluptas et vel qui aut vel rerum\nvoluptatum quisquam perspiciatis quia rerum consequatur totam quas\nsequi commodi repudiandae asperiores et saepe a'}, {'userId': 7, 'id': 70, 'title': 'voluptatem laborum magni', 'body': 'sunt repellendus quae\nest asperiores aut deleniti esse accusamus repellendus quia aut\nquia dolorem unde\neum tempora esse dolore'}, {'userId': 8, 'id': 71, 'title': 'et iusto veniam et illum aut fuga', 'body': 'occaecati a doloribus\niste saepe consectetur placeat eum voluptate dolorem et\nqui quo quia voluptas\nrerum ut id enim velit est perferendis'}, {'userId': 8, 'id': 72, 'title': 'sint hic doloribus consequatur eos non id', 'body': 'quam occaecati qui deleniti consectetur\nconsequatur aut facere quas exercitationem aliquam hic voluptas\nneque id sunt ut aut accusamus\nsunt consectetur expedita inventore velit'}, {'userId': 8, 'id': 73, 'title': 'consequuntur deleniti eos quia temporibus ab aliquid at', 'body': 'voluptatem cumque tenetur consequatur expedita ipsum nemo quia explicabo\naut eum minima consequatur\ntempore cumque quae est et\net in consequuntur voluptatem voluptates aut'}, {'userId': 8, 'id': 74, 'title': 'enim unde ratione doloribus quas enim ut sit sapiente', 'body': 'odit qui et et necessitatibus sint veniam\nmollitia amet doloremque molestiae commodi similique magnam et quam\nblanditiis est itaque\nquo et tenetur ratione occaecati molestiae tempora'}, {'userId': 8, 'id': 75, 'title': 'dignissimos eum dolor ut enim et delectus in', 'body': 'commodi non non omnis et voluptas sit\nautem aut nobis magnam et sapiente voluptatem\net laborum repellat qui delectus facilis temporibus\nrerum amet et nemo voluptate expedita adipisci error dolorem'}, {'userId': 8, 'id': 76, 'title': 'doloremque officiis ad et non perferendis', 'body': 'ut animi facere\ntotam iusto tempore\nmolestiae eum aut et dolorem aperiam\nquaerat recusandae totam odio'}, {'userId': 8, 'id': 77, 'title': 'necessitatibus quasi exercitationem odio', 'body': 'modi ut in nulla repudiandae dolorum nostrum eos\naut consequatur omnis\nut incidunt est omnis iste et quam\nvoluptates sapiente aliquam asperiores nobis amet corrupti repudiandae provident'}, {'userId': 8, 'id': 78, 'title': 'quam voluptatibus rerum veritatis', 'body': 'nobis facilis odit tempore cupiditate quia\nassumenda doloribus rerum qui ea\nillum et qui totam\naut veniam repellendus'}, {'userId': 8, 'id': 79, 'title': 'pariatur consequatur quia magnam autem omnis non amet', 'body': 'libero accusantium et et facere incidunt sit dolorem\nnon excepturi qui quia sed laudantium\nquisquam molestiae ducimus est\nofficiis esse molestiae iste et quos'}, {'userId': 8, 'id': 80, 'title': 'labore in ex et explicabo corporis aut quas', 'body': 'ex quod dolorem ea eum iure qui provident amet\nquia qui facere excepturi et repudiandae\nasperiores molestias provident\nminus incidunt vero fugit rerum sint sunt excepturi provident'}, {'userId': 9, 'id': 81, 'title': 'tempora rem veritatis voluptas quo dolores vero', 'body': 'facere qui nesciunt est voluptatum voluptatem nisi\nsequi eligendi necessitatibus ea at rerum itaque\nharum non ratione velit laboriosam quis consequuntur\nex officiis minima doloremque voluptas ut aut'}, {'userId': 9, 'id': 82, 'title': 'laudantium voluptate suscipit sunt enim enim', 'body': 'ut libero sit aut totam inventore sunt\nporro sint qui sunt molestiae\nconsequatur cupiditate qui iste ducimus adipisci\ndolor enim assumenda soluta laboriosam amet iste delectus hic'}, {'userId': 9, 'id': 83, 'title': 'odit et voluptates doloribus alias odio et', 'body': 'est molestiae facilis quis tempora numquam nihil qui\nvoluptate sapiente consequatur est qui\nnecessitatibus autem aut ipsa aperiam modi dolore numquam\nreprehenderit eius rem quibusdam'}, {'userId': 9, 'id': 84, 'title': 'optio ipsam molestias necessitatibus occaecati facilis veritatis dolores aut', 'body': 'sint molestiae magni a et quos\neaque et quasi\nut rerum debitis similique veniam\nrecusandae dignissimos dolor incidunt consequatur odio'}, {'userId': 9, 'id': 85, 'title': 'dolore veritatis porro provident adipisci blanditiis et sunt', 'body': 'similique sed nisi voluptas iusto omnis\nmollitia et quo\nassumenda suscipit officia magnam sint sed tempora\nenim provident pariatur praesentium atque animi amet ratione'}, {'userId': 9, 'id': 86, 'title': 'placeat quia et porro iste', 'body': 'quasi excepturi consequatur iste autem temporibus sed molestiae beatae\net quaerat et esse ut\nvoluptatem occaecati et vel explicabo autem\nasperiores pariatur deserunt optio'}, {'userId': 9, 'id': 87, 'title': 'nostrum quis quasi placeat', 'body': 'eos et molestiae\nnesciunt ut a\ndolores perspiciatis repellendus repellat aliquid\nmagnam sint rem ipsum est'}, {'userId': 9, 'id': 88, 'title': 'sapiente omnis fugit eos', 'body': 'consequatur omnis est praesentium\nducimus non iste\nneque hic deserunt\nvoluptatibus veniam cum et rerum sed'}, {'userId': 9, 'id': 89, 'title': 'sint soluta et vel magnam aut ut sed qui', 'body': 'repellat aut aperiam totam temporibus autem et\narchitecto magnam ut\nconsequatur qui cupiditate rerum quia soluta dignissimos nihil iure\ntempore quas est'}, {'userId': 9, 'id': 90, 'title': 'ad iusto omnis odit dolor voluptatibus', 'body': 'minus omnis soluta quia\nqui sed adipisci voluptates illum ipsam voluptatem\neligendi officia ut in\neos soluta similique molestias praesentium blanditiis'}, {'userId': 10, 'id': 91, 'title': 'aut amet sed', 'body': 'libero voluptate eveniet aperiam sed\nsunt placeat suscipit molestias\nsimilique fugit nam natus\nexpedita consequatur consequatur dolores quia eos et placeat'}, {'userId': 10, 'id': 92, 'title': 'ratione ex tenetur perferendis', 'body': 'aut et excepturi dicta laudantium sint rerum nihil\nlaudantium et at\na neque minima officia et similique libero et\ncommodi voluptate qui'}, {'userId': 10, 'id': 93, 'title': 'beatae soluta recusandae', 'body': 'dolorem quibusdam ducimus consequuntur dicta aut quo laboriosam\nvoluptatem quis enim recusandae ut sed sunt\nnostrum est odit totam\nsit error sed sunt eveniet provident qui nulla'}, {'userId': 10, 'id': 94, 'title': 'qui qui voluptates illo iste minima', 'body': 'aspernatur expedita soluta quo ab ut similique\nexpedita dolores amet\nsed temporibus distinctio magnam saepe deleniti\nomnis facilis nam ipsum natus sint similique omnis'}, {'userId': 10, 'id': 95, 'title': 'id minus libero illum nam ad officiis', 'body': 'earum voluptatem facere provident blanditiis velit laboriosam\npariatur accusamus odio saepe\ncumque dolor qui a dicta ab doloribus consequatur omnis\ncorporis cupiditate eaque assumenda ad nesciunt'}, {'userId': 10, 'id': 96, 'title': 'quaerat velit veniam amet cupiditate aut numquam ut sequi', 'body': 'in non odio excepturi sint eum\nlabore voluptates vitae quia qui et\ninventore itaque rerum\nveniam non exercitationem delectus aut'}, {'userId': 10, 'id': 97, 'title': 'quas fugiat ut perspiciatis vero provident', 'body': 'eum non blanditiis soluta porro quibusdam voluptas\nvel voluptatem qui placeat dolores qui velit aut\nvel inventore aut cumque culpa explicabo aliquid at\nperspiciatis est et voluptatem dignissimos dolor itaque sit nam'}, {'userId': 10, 'id': 98, 'title': 'laboriosam dolor voluptates', 'body': 'doloremque ex facilis sit sint culpa\nsoluta assumenda eligendi non ut eius\nsequi ducimus vel quasi\nveritatis est dolores'}, {'userId': 10, 'id': 99, 'title': 'temporibus sit alias delectus eligendi possimus magni', 'body': 'quo deleniti praesentium dicta non quod\naut est molestias\nmolestias et officia quis nihil\nitaque dolorem quia'}, {'userId': 10, 'id': 100, 'title': 'at nam consequatur ea labore ea harum', 'body': 'cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut'}]
+2025-06-03 21:52:14,050 [DEBUG] Using selector: EpollSelector
+2025-06-03 21:52:14,437 [INFO] Запуск теста: test_list_posts[chromium] | Браузер: chromium | Файл: test_api.py
+2025-06-03 21:52:14,496 [DEBUG] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2025-06-03 21:52:15,088 [DEBUG] https://jsonplaceholder.typicode.com:443 "GET /posts HTTP/1.1" 200 None
+2025-06-03 21:52:15,241 [INFO] Статус код: 200
+2025-06-03 21:52:15,242 [INFO] [{'userId': 1, 'id': 1, 'title': 'sunt aut facere repellat provident occaecati excepturi optio reprehenderit', 'body': 'quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto'}, {'userId': 1, 'id': 2, 'title': 'qui est esse', 'body': 'est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla'}, {'userId': 1, 'id': 3, 'title': 'ea molestias quasi exercitationem repellat qui ipsa sit aut', 'body': 'et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut'}, {'userId': 1, 'id': 4, 'title': 'eum et est occaecati', 'body': 'ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit'}, {'userId': 1, 'id': 5, 'title': 'nesciunt quas odio', 'body': 'repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque'}, {'userId': 1, 'id': 6, 'title': 'dolorem eum magni eos aperiam quia', 'body': 'ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae'}, {'userId': 1, 'id': 7, 'title': 'magnam facilis autem', 'body': 'dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas'}, {'userId': 1, 'id': 8, 'title': 'dolorem dolore est ipsam', 'body': 'dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae'}, {'userId': 1, 'id': 9, 'title': 'nesciunt iure omnis dolorem tempora et accusantium', 'body': 'consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas'}, {'userId': 1, 'id': 10, 'title': 'optio molestias id quia eum', 'body': 'quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error'}, {'userId': 2, 'id': 11, 'title': 'et ea vero quia laudantium autem', 'body': 'delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi'}, {'userId': 2, 'id': 12, 'title': 'in quibusdam tempore odit est dolorem', 'body': 'itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio'}, {'userId': 2, 'id': 13, 'title': 'dolorum ut in voluptas mollitia et saepe quo animi', 'body': 'aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam'}, {'userId': 2, 'id': 14, 'title': 'voluptatem eligendi optio', 'body': 'fuga et accusamus dolorum perferendis illo voluptas\nnon doloremque neque facere\nad qui dolorum molestiae beatae\nsed aut voluptas totam sit illum'}, {'userId': 2, 'id': 15, 'title': 'eveniet quod temporibus', 'body': 'reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae'}, {'userId': 2, 'id': 16, 'title': 'sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio', 'body': 'suscipit nam nisi quo aperiam aut\nasperiores eos fugit maiores voluptatibus quia\nvoluptatem quis ullam qui in alias quia est\nconsequatur magni mollitia accusamus ea nisi voluptate dicta'}, {'userId': 2, 'id': 17, 'title': 'fugit voluptas sed molestias voluptatem provident', 'body': 'eos voluptas et aut odit natus earum\naspernatur fuga molestiae ullam\ndeserunt ratione qui eos\nqui nihil ratione nemo velit ut aut id quo'}, {'userId': 2, 'id': 18, 'title': 'voluptate et itaque vero tempora molestiae', 'body': 'eveniet quo quis\nlaborum totam consequatur non dolor\nut et est repudiandae\nest voluptatem vel debitis et magnam'}, {'userId': 2, 'id': 19, 'title': 'adipisci placeat illum aut reiciendis qui', 'body': 'illum quis cupiditate provident sit magnam\nea sed aut omnis\nveniam maiores ullam consequatur atque\nadipisci quo iste expedita sit quos voluptas'}, {'userId': 2, 'id': 20, 'title': 'doloribus ad provident suscipit at', 'body': 'qui consequuntur ducimus possimus quisquam amet similique\nsuscipit porro ipsam amet\neos veritatis officiis exercitationem vel fugit aut necessitatibus totam\nomnis rerum consequatur expedita quidem cumque explicabo'}, {'userId': 3, 'id': 21, 'title': 'asperiores ea ipsam voluptatibus modi minima quia sint', 'body': 'repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt'}, {'userId': 3, 'id': 22, 'title': 'dolor sint quo a velit explicabo quia nam', 'body': 'eos qui et ipsum ipsam suscipit aut\nsed omnis non odio\nexpedita earum mollitia molestiae aut atque rem suscipit\nnam impedit esse'}, {'userId': 3, 'id': 23, 'title': 'maxime id vitae nihil numquam', 'body': 'veritatis unde neque eligendi\nquae quod architecto quo neque vitae\nest illo sit tempora doloremque fugit quod\net et vel beatae sequi ullam sed tenetur perspiciatis'}, {'userId': 3, 'id': 24, 'title': 'autem hic labore sunt dolores incidunt', 'body': 'enim et ex nulla\nomnis voluptas quia qui\nvoluptatem consequatur numquam aliquam sunt\ntotam recusandae id dignissimos aut sed asperiores deserunt'}, {'userId': 3, 'id': 25, 'title': 'rem alias distinctio quo quis', 'body': 'ullam consequatur ut\nomnis quis sit vel consequuntur\nipsa eligendi ipsum molestiae et omnis error nostrum\nmolestiae illo tempore quia et distinctio'}, {'userId': 3, 'id': 26, 'title': 'est et quae odit qui non', 'body': 'similique esse doloribus nihil accusamus\nomnis dolorem fuga consequuntur reprehenderit fugit recusandae temporibus\nperspiciatis cum ut laudantium\nomnis aut molestiae vel vero'}, {'userId': 3, 'id': 27, 'title': 'quasi id et eos tenetur aut quo autem', 'body': 'eum sed dolores ipsam sint possimus debitis occaecati\ndebitis qui qui et\nut placeat enim earum aut odit facilis\nconsequatur suscipit necessitatibus rerum sed inventore temporibus consequatur'}, {'userId': 3, 'id': 28, 'title': 'delectus ullam et corporis nulla voluptas sequi', 'body': 'non et quaerat ex quae ad maiores\nmaiores recusandae totam aut blanditiis mollitia quas illo\nut voluptatibus voluptatem\nsimilique nostrum eum'}, {'userId': 3, 'id': 29, 'title': 'iusto eius quod necessitatibus culpa ea', 'body': 'odit magnam ut saepe sed non qui\ntempora atque nihil\naccusamus illum doloribus illo dolor\neligendi repudiandae odit magni similique sed cum maiores'}, {'userId': 3, 'id': 30, 'title': 'a quo magni similique perferendis', 'body': 'alias dolor cumque\nimpedit blanditiis non eveniet odio maxime\nblanditiis amet eius quis tempora quia autem rem\na provident perspiciatis quia'}, {'userId': 4, 'id': 31, 'title': 'ullam ut quidem id aut vel consequuntur', 'body': 'debitis eius sed quibusdam non quis consectetur vitae\nimpedit ut qui consequatur sed aut in\nquidem sit nostrum et maiores adipisci atque\nquaerat voluptatem adipisci repudiandae'}, {'userId': 4, 'id': 32, 'title': 'doloremque illum aliquid sunt', 'body': 'deserunt eos nobis asperiores et hic\nest debitis repellat molestiae optio\nnihil ratione ut eos beatae quibusdam distinctio maiores\nearum voluptates et aut adipisci ea maiores voluptas maxime'}, {'userId': 4, 'id': 33, 'title': 'qui explicabo molestiae dolorem', 'body': 'rerum ut et numquam laborum odit est sit\nid qui sint in\nquasi tenetur tempore aperiam et quaerat qui in\nrerum officiis sequi cumque quod'}, {'userId': 4, 'id': 34, 'title': 'magnam ut rerum iure', 'body': 'ea velit perferendis earum ut voluptatem voluptate itaque iusto\ntotam pariatur in\nnemo voluptatem voluptatem autem magni tempora minima in\nest distinctio qui assumenda accusamus dignissimos officia nesciunt nobis'}, {'userId': 4, 'id': 35, 'title': 'id nihil consequatur molestias animi provident', 'body': 'nisi error delectus possimus ut eligendi vitae\nplaceat eos harum cupiditate facilis reprehenderit voluptatem beatae\nmodi ducimus quo illum voluptas eligendi\net nobis quia fugit'}, {'userId': 4, 'id': 36, 'title': 'fuga nam accusamus voluptas reiciendis itaque', 'body': 'ad mollitia et omnis minus architecto odit\nvoluptas doloremque maxime aut non ipsa qui alias veniam\nblanditiis culpa aut quia nihil cumque facere et occaecati\nqui aspernatur quia eaque ut aperiam inventore'}, {'userId': 4, 'id': 37, 'title': 'provident vel ut sit ratione est', 'body': 'debitis et eaque non officia sed nesciunt pariatur vel\nvoluptatem iste vero et ea\nnumquam aut expedita ipsum nulla in\nvoluptates omnis consequatur aut enim officiis in quam qui'}, {'userId': 4, 'id': 38, 'title': 'explicabo et eos deleniti nostrum ab id repellendus', 'body': 'animi esse sit aut sit nesciunt assumenda eum voluptas\nquia voluptatibus provident quia necessitatibus ea\nrerum repudiandae quia voluptatem delectus fugit aut id quia\nratione optio eos iusto veniam iure'}, {'userId': 4, 'id': 39, 'title': 'eos dolorem iste accusantium est eaque quam', 'body': 'corporis rerum ducimus vel eum accusantium\nmaxime aspernatur a porro possimus iste omnis\nest in deleniti asperiores fuga aut\nvoluptas sapiente vel dolore minus voluptatem incidunt ex'}, {'userId': 4, 'id': 40, 'title': 'enim quo cumque', 'body': 'ut voluptatum aliquid illo tenetur nemo sequi quo facilis\nipsum rem optio mollitia quas\nvoluptatem eum voluptas qui\nunde omnis voluptatem iure quasi maxime voluptas nam'}, {'userId': 5, 'id': 41, 'title': 'non est facere', 'body': 'molestias id nostrum\nexcepturi molestiae dolore omnis repellendus quaerat saepe\nconsectetur iste quaerat tenetur asperiores accusamus ex ut\nnam quidem est ducimus sunt debitis saepe'}, {'userId': 5, 'id': 42, 'title': 'commodi ullam sint et excepturi error explicabo praesentium voluptas', 'body': 'odio fugit voluptatum ducimus earum autem est incidunt voluptatem\nodit reiciendis aliquam sunt sequi nulla dolorem\nnon facere repellendus voluptates quia\nratione harum vitae ut'}, {'userId': 5, 'id': 43, 'title': 'eligendi iste nostrum consequuntur adipisci praesentium sit beatae perferendis', 'body': 'similique fugit est\nillum et dolorum harum et voluptate eaque quidem\nexercitationem quos nam commodi possimus cum odio nihil nulla\ndolorum exercitationem magnam ex et a et distinctio debitis'}, {'userId': 5, 'id': 44, 'title': 'optio dolor molestias sit', 'body': 'temporibus est consectetur dolore\net libero debitis vel velit laboriosam quia\nipsum quibusdam qui itaque fuga rem aut\nea et iure quam sed maxime ut distinctio quae'}, {'userId': 5, 'id': 45, 'title': 'ut numquam possimus omnis eius suscipit laudantium iure', 'body': 'est natus reiciendis nihil possimus aut provident\nex et dolor\nrepellat pariatur est\nnobis rerum repellendus dolorem autem'}, {'userId': 5, 'id': 46, 'title': 'aut quo modi neque nostrum ducimus', 'body': 'voluptatem quisquam iste\nvoluptatibus natus officiis facilis dolorem\nquis quas ipsam\nvel et voluptatum in aliquid'}, {'userId': 5, 'id': 47, 'title': 'quibusdam cumque rem aut deserunt', 'body': 'voluptatem assumenda ut qui ut cupiditate aut impedit veniam\noccaecati nemo illum voluptatem laudantium\nmolestiae beatae rerum ea iure soluta nostrum\neligendi et voluptate'}, {'userId': 5, 'id': 48, 'title': 'ut voluptatem illum ea doloribus itaque eos', 'body': 'voluptates quo voluptatem facilis iure occaecati\nvel assumenda rerum officia et\nillum perspiciatis ab deleniti\nlaudantium repellat ad ut et autem reprehenderit'}, {'userId': 5, 'id': 49, 'title': 'laborum non sunt aut ut assumenda perspiciatis voluptas', 'body': 'inventore ab sint\nnatus fugit id nulla sequi architecto nihil quaerat\neos tenetur in in eum veritatis non\nquibusdam officiis aspernatur cumque aut commodi aut'}, {'userId': 5, 'id': 50, 'title': 'repellendus qui recusandae incidunt voluptates tenetur qui omnis exercitationem', 'body': 'error suscipit maxime adipisci consequuntur recusandae\nvoluptas eligendi et est et voluptates\nquia distinctio ab amet quaerat molestiae et vitae\nadipisci impedit sequi nesciunt quis consectetur'}, {'userId': 6, 'id': 51, 'title': 'soluta aliquam aperiam consequatur illo quis voluptas', 'body': 'sunt dolores aut doloribus\ndolore doloribus voluptates tempora et\ndoloremque et quo\ncum asperiores sit consectetur dolorem'}, {'userId': 6, 'id': 52, 'title': 'qui enim et consequuntur quia animi quis voluptate quibusdam', 'body': 'iusto est quibusdam fuga quas quaerat molestias\na enim ut sit accusamus enim\ntemporibus iusto accusantium provident architecto\nsoluta esse reprehenderit qui laborum'}, {'userId': 6, 'id': 53, 'title': 'ut quo aut ducimus alias', 'body': 'minima harum praesentium eum rerum illo dolore\nquasi exercitationem rerum nam\nporro quis neque quo\nconsequatur minus dolor quidem veritatis sunt non explicabo similique'}, {'userId': 6, 'id': 54, 'title': 'sit asperiores ipsam eveniet odio non quia', 'body': 'totam corporis dignissimos\nvitae dolorem ut occaecati accusamus\nex velit deserunt\net exercitationem vero incidunt corrupti mollitia'}, {'userId': 6, 'id': 55, 'title': 'sit vel voluptatem et non libero', 'body': 'debitis excepturi ea perferendis harum libero optio\neos accusamus cum fuga ut sapiente repudiandae\net ut incidunt omnis molestiae\nnihil ut eum odit'}, {'userId': 6, 'id': 56, 'title': 'qui et at rerum necessitatibus', 'body': 'aut est omnis dolores\nneque rerum quod ea rerum velit pariatur beatae excepturi\net provident voluptas corrupti\ncorporis harum reprehenderit dolores eligendi'}, {'userId': 6, 'id': 57, 'title': 'sed ab est est', 'body': 'at pariatur consequuntur earum quidem\nquo est laudantium soluta voluptatem\nqui ullam et est\net cum voluptas voluptatum repellat est'}, {'userId': 6, 'id': 58, 'title': 'voluptatum itaque dolores nisi et quasi', 'body': 'veniam voluptatum quae adipisci id\net id quia eos ad et dolorem\naliquam quo nisi sunt eos impedit error\nad similique veniam'}, {'userId': 6, 'id': 59, 'title': 'qui commodi dolor at maiores et quis id accusantium', 'body': 'perspiciatis et quam ea autem temporibus non voluptatibus qui\nbeatae a earum officia nesciunt dolores suscipit voluptas et\nanimi doloribus cum rerum quas et magni\net hic ut ut commodi expedita sunt'}, {'userId': 6, 'id': 60, 'title': 'consequatur placeat omnis quisquam quia reprehenderit fugit veritatis facere', 'body': 'asperiores sunt ab assumenda cumque modi velit\nqui esse omnis\nvoluptate et fuga perferendis voluptas\nillo ratione amet aut et omnis'}, {'userId': 7, 'id': 61, 'title': 'voluptatem doloribus consectetur est ut ducimus', 'body': 'ab nemo optio odio\ndelectus tenetur corporis similique nobis repellendus rerum omnis facilis\nvero blanditiis debitis in nesciunt doloribus dicta dolores\nmagnam minus velit'}, {'userId': 7, 'id': 62, 'title': 'beatae enim quia vel', 'body': 'enim aspernatur illo distinctio quae praesentium\nbeatae alias amet delectus qui voluptate distinctio\nodit sint accusantium autem omnis\nquo molestiae omnis ea eveniet optio'}, {'userId': 7, 'id': 63, 'title': 'voluptas blanditiis repellendus animi ducimus error sapiente et suscipit', 'body': 'enim adipisci aspernatur nemo\nnumquam omnis facere dolorem dolor ex quis temporibus incidunt\nab delectus culpa quo reprehenderit blanditiis asperiores\naccusantium ut quam in voluptatibus voluptas ipsam dicta'}, {'userId': 7, 'id': 64, 'title': 'et fugit quas eum in in aperiam quod', 'body': 'id velit blanditiis\neum ea voluptatem\nmolestiae sint occaecati est eos perspiciatis\nincidunt a error provident eaque aut aut qui'}, {'userId': 7, 'id': 65, 'title': 'consequatur id enim sunt et et', 'body': 'voluptatibus ex esse\nsint explicabo est aliquid cumque adipisci fuga repellat labore\nmolestiae corrupti ex saepe at asperiores et perferendis\nnatus id esse incidunt pariatur'}, {'userId': 7, 'id': 66, 'title': 'repudiandae ea animi iusto', 'body': 'officia veritatis tenetur vero qui itaque\nsint non ratione\nsed et ut asperiores iusto eos molestiae nostrum\nveritatis quibusdam et nemo iusto saepe'}, {'userId': 7, 'id': 67, 'title': 'aliquid eos sed fuga est maxime repellendus', 'body': 'reprehenderit id nostrum\nvoluptas doloremque pariatur sint et accusantium quia quod aspernatur\net fugiat amet\nnon sapiente et consequatur necessitatibus molestiae'}, {'userId': 7, 'id': 68, 'title': 'odio quis facere architecto reiciendis optio', 'body': 'magnam molestiae perferendis quisquam\nqui cum reiciendis\nquaerat animi amet hic inventore\nea quia deleniti quidem saepe porro velit'}, {'userId': 7, 'id': 69, 'title': 'fugiat quod pariatur odit minima', 'body': 'officiis error culpa consequatur modi asperiores et\ndolorum assumenda voluptas et vel qui aut vel rerum\nvoluptatum quisquam perspiciatis quia rerum consequatur totam quas\nsequi commodi repudiandae asperiores et saepe a'}, {'userId': 7, 'id': 70, 'title': 'voluptatem laborum magni', 'body': 'sunt repellendus quae\nest asperiores aut deleniti esse accusamus repellendus quia aut\nquia dolorem unde\neum tempora esse dolore'}, {'userId': 8, 'id': 71, 'title': 'et iusto veniam et illum aut fuga', 'body': 'occaecati a doloribus\niste saepe consectetur placeat eum voluptate dolorem et\nqui quo quia voluptas\nrerum ut id enim velit est perferendis'}, {'userId': 8, 'id': 72, 'title': 'sint hic doloribus consequatur eos non id', 'body': 'quam occaecati qui deleniti consectetur\nconsequatur aut facere quas exercitationem aliquam hic voluptas\nneque id sunt ut aut accusamus\nsunt consectetur expedita inventore velit'}, {'userId': 8, 'id': 73, 'title': 'consequuntur deleniti eos quia temporibus ab aliquid at', 'body': 'voluptatem cumque tenetur consequatur expedita ipsum nemo quia explicabo\naut eum minima consequatur\ntempore cumque quae est et\net in consequuntur voluptatem voluptates aut'}, {'userId': 8, 'id': 74, 'title': 'enim unde ratione doloribus quas enim ut sit sapiente', 'body': 'odit qui et et necessitatibus sint veniam\nmollitia amet doloremque molestiae commodi similique magnam et quam\nblanditiis est itaque\nquo et tenetur ratione occaecati molestiae tempora'}, {'userId': 8, 'id': 75, 'title': 'dignissimos eum dolor ut enim et delectus in', 'body': 'commodi non non omnis et voluptas sit\nautem aut nobis magnam et sapiente voluptatem\net laborum repellat qui delectus facilis temporibus\nrerum amet et nemo voluptate expedita adipisci error dolorem'}, {'userId': 8, 'id': 76, 'title': 'doloremque officiis ad et non perferendis', 'body': 'ut animi facere\ntotam iusto tempore\nmolestiae eum aut et dolorem aperiam\nquaerat recusandae totam odio'}, {'userId': 8, 'id': 77, 'title': 'necessitatibus quasi exercitationem odio', 'body': 'modi ut in nulla repudiandae dolorum nostrum eos\naut consequatur omnis\nut incidunt est omnis iste et quam\nvoluptates sapiente aliquam asperiores nobis amet corrupti repudiandae provident'}, {'userId': 8, 'id': 78, 'title': 'quam voluptatibus rerum veritatis', 'body': 'nobis facilis odit tempore cupiditate quia\nassumenda doloribus rerum qui ea\nillum et qui totam\naut veniam repellendus'}, {'userId': 8, 'id': 79, 'title': 'pariatur consequatur quia magnam autem omnis non amet', 'body': 'libero accusantium et et facere incidunt sit dolorem\nnon excepturi qui quia sed laudantium\nquisquam molestiae ducimus est\nofficiis esse molestiae iste et quos'}, {'userId': 8, 'id': 80, 'title': 'labore in ex et explicabo corporis aut quas', 'body': 'ex quod dolorem ea eum iure qui provident amet\nquia qui facere excepturi et repudiandae\nasperiores molestias provident\nminus incidunt vero fugit rerum sint sunt excepturi provident'}, {'userId': 9, 'id': 81, 'title': 'tempora rem veritatis voluptas quo dolores vero', 'body': 'facere qui nesciunt est voluptatum voluptatem nisi\nsequi eligendi necessitatibus ea at rerum itaque\nharum non ratione velit laboriosam quis consequuntur\nex officiis minima doloremque voluptas ut aut'}, {'userId': 9, 'id': 82, 'title': 'laudantium voluptate suscipit sunt enim enim', 'body': 'ut libero sit aut totam inventore sunt\nporro sint qui sunt molestiae\nconsequatur cupiditate qui iste ducimus adipisci\ndolor enim assumenda soluta laboriosam amet iste delectus hic'}, {'userId': 9, 'id': 83, 'title': 'odit et voluptates doloribus alias odio et', 'body': 'est molestiae facilis quis tempora numquam nihil qui\nvoluptate sapiente consequatur est qui\nnecessitatibus autem aut ipsa aperiam modi dolore numquam\nreprehenderit eius rem quibusdam'}, {'userId': 9, 'id': 84, 'title': 'optio ipsam molestias necessitatibus occaecati facilis veritatis dolores aut', 'body': 'sint molestiae magni a et quos\neaque et quasi\nut rerum debitis similique veniam\nrecusandae dignissimos dolor incidunt consequatur odio'}, {'userId': 9, 'id': 85, 'title': 'dolore veritatis porro provident adipisci blanditiis et sunt', 'body': 'similique sed nisi voluptas iusto omnis\nmollitia et quo\nassumenda suscipit officia magnam sint sed tempora\nenim provident pariatur praesentium atque animi amet ratione'}, {'userId': 9, 'id': 86, 'title': 'placeat quia et porro iste', 'body': 'quasi excepturi consequatur iste autem temporibus sed molestiae beatae\net quaerat et esse ut\nvoluptatem occaecati et vel explicabo autem\nasperiores pariatur deserunt optio'}, {'userId': 9, 'id': 87, 'title': 'nostrum quis quasi placeat', 'body': 'eos et molestiae\nnesciunt ut a\ndolores perspiciatis repellendus repellat aliquid\nmagnam sint rem ipsum est'}, {'userId': 9, 'id': 88, 'title': 'sapiente omnis fugit eos', 'body': 'consequatur omnis est praesentium\nducimus non iste\nneque hic deserunt\nvoluptatibus veniam cum et rerum sed'}, {'userId': 9, 'id': 89, 'title': 'sint soluta et vel magnam aut ut sed qui', 'body': 'repellat aut aperiam totam temporibus autem et\narchitecto magnam ut\nconsequatur qui cupiditate rerum quia soluta dignissimos nihil iure\ntempore quas est'}, {'userId': 9, 'id': 90, 'title': 'ad iusto omnis odit dolor voluptatibus', 'body': 'minus omnis soluta quia\nqui sed adipisci voluptates illum ipsam voluptatem\neligendi officia ut in\neos soluta similique molestias praesentium blanditiis'}, {'userId': 10, 'id': 91, 'title': 'aut amet sed', 'body': 'libero voluptate eveniet aperiam sed\nsunt placeat suscipit molestias\nsimilique fugit nam natus\nexpedita consequatur consequatur dolores quia eos et placeat'}, {'userId': 10, 'id': 92, 'title': 'ratione ex tenetur perferendis', 'body': 'aut et excepturi dicta laudantium sint rerum nihil\nlaudantium et at\na neque minima officia et similique libero et\ncommodi voluptate qui'}, {'userId': 10, 'id': 93, 'title': 'beatae soluta recusandae', 'body': 'dolorem quibusdam ducimus consequuntur dicta aut quo laboriosam\nvoluptatem quis enim recusandae ut sed sunt\nnostrum est odit totam\nsit error sed sunt eveniet provident qui nulla'}, {'userId': 10, 'id': 94, 'title': 'qui qui voluptates illo iste minima', 'body': 'aspernatur expedita soluta quo ab ut similique\nexpedita dolores amet\nsed temporibus distinctio magnam saepe deleniti\nomnis facilis nam ipsum natus sint similique omnis'}, {'userId': 10, 'id': 95, 'title': 'id minus libero illum nam ad officiis', 'body': 'earum voluptatem facere provident blanditiis velit laboriosam\npariatur accusamus odio saepe\ncumque dolor qui a dicta ab doloribus consequatur omnis\ncorporis cupiditate eaque assumenda ad nesciunt'}, {'userId': 10, 'id': 96, 'title': 'quaerat velit veniam amet cupiditate aut numquam ut sequi', 'body': 'in non odio excepturi sint eum\nlabore voluptates vitae quia qui et\ninventore itaque rerum\nveniam non exercitationem delectus aut'}, {'userId': 10, 'id': 97, 'title': 'quas fugiat ut perspiciatis vero provident', 'body': 'eum non blanditiis soluta porro quibusdam voluptas\nvel voluptatem qui placeat dolores qui velit aut\nvel inventore aut cumque culpa explicabo aliquid at\nperspiciatis est et voluptatem dignissimos dolor itaque sit nam'}, {'userId': 10, 'id': 98, 'title': 'laboriosam dolor voluptates', 'body': 'doloremque ex facilis sit sint culpa\nsoluta assumenda eligendi non ut eius\nsequi ducimus vel quasi\nveritatis est dolores'}, {'userId': 10, 'id': 99, 'title': 'temporibus sit alias delectus eligendi possimus magni', 'body': 'quo deleniti praesentium dicta non quod\naut est molestias\nmolestias et officia quis nihil\nitaque dolorem quia'}, {'userId': 10, 'id': 100, 'title': 'at nam consequatur ea labore ea harum', 'body': 'cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut'}]
+2025-06-03 21:52:15,269 [INFO] Запуск теста: test_create_post[chromium] | Браузер: chromium | Файл: test_api.py
+2025-06-03 21:52:15,307 [DEBUG] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2025-06-03 21:52:15,805 [DEBUG] https://jsonplaceholder.typicode.com:443 "POST /posts HTTP/1.1" 201 68
+2025-06-03 21:52:15,806 [INFO] Статус код: 201
+2025-06-03 21:52:15,806 [INFO] JSON Response: {'title': 'TITLE', 'body': 'BODY', 'userId': 1, 'id': 101}
+2025-06-03 21:52:15,833 [INFO] Запуск теста: test_get_post[chromium] | Браузер: chromium | Файл: test_api.py
+2025-06-03 21:52:15,864 [INFO] Попытка 1 — Запрос: GET https://jsonplaceholder.typicode.com/posts/21
+2025-06-03 21:52:15,866 [DEBUG] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2025-06-03 21:52:16,466 [DEBUG] https://jsonplaceholder.typicode.com:443 "GET /posts/21 HTTP/1.1" 200 None
+2025-06-03 21:52:16,476 [INFO] Статус код: 200
+2025-06-03 21:52:16,476 [INFO] Ресурс c id 21: {'userId': 3, 'id': 21, 'title': 'asperiores ea ipsam voluptatibus modi minima quia sint', 'body': 'repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt'}
+2025-06-03 21:52:16,504 [INFO] Запуск теста: test_delete_post[chromium] | Браузер: chromium | Файл: test_api.py
+2025-06-03 21:52:16,542 [DEBUG] Starting new HTTPS connection (1): jsonplaceholder.typicode.com:443
+2025-06-03 21:52:18,058 [DEBUG] https://jsonplaceholder.typicode.com:443 "DELETE /posts/21 HTTP/1.1" 200 None
+2025-06-03 21:52:18,059 [INFO] Статус код: 200
+2025-06-03 21:52:18,059 [INFO] Ответ об удалении {}
+2025-06-03 22:15:54,810 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:15:55,190 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:15:55,249 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:15:59,184 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/login HTTP/1.1" 405 None
+2025-06-03 22:15:59,226 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AttributeError: 'Response' object has no attribute 'status'
+2025-06-03 22:16:13,975 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:16:14,350 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:16:14,403 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:16:15,449 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/login HTTP/1.1" 405 None
+2025-06-03 22:16:15,481 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Login failed
+2025-06-03 22:17:32,676 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:17:33,062 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:17:33,123 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:17:36,253 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /api/auth/login HTTP/1.1" 404 296
+2025-06-03 22:17:36,286 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Login failed
+2025-06-03 22:19:18,341 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:19:18,724 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:19:18,780 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:19:22,138 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/login HTTP/1.1" 405 None
+2025-06-03 22:19:22,174 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Login failed
+2025-06-03 22:20:25,554 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:20:25,954 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:20:25,999 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:20:26,701 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/login HTTP/1.1" 405 None
+2025-06-03 22:20:26,702 [INFO] 
+2025-06-03 22:20:26,743 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Login failed
+2025-06-03 22:22:02,288 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:22:02,681 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:22:02,738 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:22:03,534 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /api/auth/login HTTP/1.1" 404 296
+2025-06-03 22:22:03,535 [INFO] <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.41 (Ubuntu) Server at opensource-demo.orangehrmlive.com Port 443</address>
+</body></html>
+
+2025-06-03 22:22:03,562 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Login failed
+2025-06-03 22:23:01,830 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:23:02,209 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:23:02,314 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:23:03,001 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /api/auth/login HTTP/1.1" 404 296
+2025-06-03 22:23:03,031 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Login failed <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<hr>
+<address>Apache/2.4.41 (Ubuntu) Server at opensource-demo.orangehrmlive.com Port 443</address>
+</body></html>
+2025-06-03 22:25:57,203 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:25:57,627 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:25:57,684 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:25:58,367 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/validate HTTP/1.1" 302 None
+2025-06-03 22:25:58,646 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "GET /web/index.php/auth/login HTTP/1.1" 200 None
+2025-06-03 22:26:07,368 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Locator expected to have text 'Dashboard'
+Actual value: <element(s) not found> 
+Call log:
+  - LocatorAssertions.to_have_text with timeout 5000ms
+  - waiting for locator("h6")
+2025-06-03 22:29:54,483 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:29:54,958 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:29:55,018 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:29:55,939 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/validate HTTP/1.1" 302 None
+2025-06-03 22:29:56,203 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "GET /web/index.php/auth/login HTTP/1.1" 200 None
+2025-06-03 22:30:06,874 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Locator expected to have text 'Dashboard'
+Actual value: <element(s) not found> 
+Call log:
+  - LocatorAssertions.to_have_text with timeout 5000ms
+  - waiting for get_by_role("heading", name="Dashboard")
+2025-06-03 22:30:20,480 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:30:21,058 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:30:21,226 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:30:21,859 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/validate HTTP/1.1" 302 None
+2025-06-03 22:30:22,226 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "GET /web/index.php/auth/login HTTP/1.1" 200 None
+2025-06-03 22:30:33,356 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Locator expected to have text 'Dashboard'
+Actual value: <element(s) not found> 
+Call log:
+  - LocatorAssertions.to_have_text with timeout 5000ms
+  - waiting for get_by_role("heading", name="Dashboard")
+2025-06-03 22:31:41,178 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:31:41,751 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:31:41,956 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:31:42,580 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/validate HTTP/1.1" 302 None
+2025-06-03 22:31:42,894 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "GET /web/index.php/auth/login HTTP/1.1" 200 None
+2025-06-03 22:31:42,959 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AttributeError: module 'logging' has no attribute 'indo'. Did you mean: 'info'?
+2025-06-03 22:32:17,246 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:32:17,831 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:32:18,001 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:32:18,592 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/validate HTTP/1.1" 302 None
+2025-06-03 22:32:18,851 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "GET /web/index.php/auth/login HTTP/1.1" 200 None
+2025-06-03 22:32:18,902 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Login failed <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>OrangeHRM</title>
+      <link rel="icon" href="/web/dist/favicon.ico?v=1721393199309">
+    <link href="/web/dist/css/chunk-vendors.css?v=1721393199309" rel="preload" as="style">
+    <link href="/web/dist/css/app.css?v=1721393199309" rel="preload" as="style">
+    <link href="/web/dist/js/chunk-vendors.js?v=1721393199309" rel="preload" as="script">
+    <link href="/web/dist/js/app.js?v=1721393199309" rel="preload" as="script">
+      <link href="/web/dist/css/chunk-vendors.css?v=1721393199309" rel="stylesheet"/>
+    <link href="/web/dist/css/app.css?v=1721393199309" rel="stylesheet"/>
+</head>
+<body>
+  <style>
+    :root {
+            --oxd-primary-one-color:#FF7B1D;
+            --oxd-primary-font-color:#FFFFFF;
+            --oxd-secondary-four-color:#76BC21;
+            --oxd-secondary-font-color:#FFFFFF;
+            --oxd-primary-gradient-start-color:#FF920B;
+            --oxd-primary-gradient-end-color:#F35C17;
+            --oxd-secondary-gradient-start-color:#FF920B;
+            --oxd-secondary-gradient-end-color:#F35C17;
+            --oxd-primary-one-lighten-5-color:#ff8a37;
+            --oxd-primary-one-lighten-30-color:#ffd4b6;
+            --oxd-primary-one-darken-5-color:#ff6c03;
+            --oxd-primary-one-alpha-10-color:rgba(255, 123, 29, 0.1);
+            --oxd-primary-one-alpha-15-color:rgba(255, 123, 29, 0.15);
+            --oxd-primary-one-alpha-20-color:rgba(255, 123, 29, 0.2);
+            --oxd-primary-one-alpha-50-color:rgba(255, 123, 29, 0.5);
+            --oxd-secondary-four-lighten-5-color:#84d225;
+            --oxd-secondary-four-darken-5-color:#68a61d;
+            --oxd-secondary-four-alpha-10-color:rgba(118, 188, 33, 0.1);
+            --oxd-secondary-four-alpha-15-color:rgba(118, 188, 33, 0.15);
+            --oxd-secondary-four-alpha-20-color:rgba(118, 188, 33, 0.2);
+            --oxd-secondary-four-alpha-50-color:rgba(118, 188, 33, 0.5);
+        }
+  </style>
+    <noscript>
+        <strong>
+            We're sorry but orangehrm doesn't work properly without JavaScript enabled. Please enable it to continue.
+        </strong>
+    </noscript>
+
+    <div id="app">
+    <auth-login
+            :error="{&quot;error&quot;:&quot;invalid_csrf_token&quot;,&quot;message&quot;:&quot;CSRF token validation failed&quot;}"
+            :token="&quot;3ad0eb0d5906078a1142809e28e.2tyEhPVQepiR4HvvTpkf2FzX1o4PLPJXlppLm2UyWEg.iav0w7MRDsjekyrfOrR4oWrivchgdpQEu_cH7ShjCwKfurO3vn1M-8uKPg&quot;"
+            :login-logo-src="&quot;\/web\/images\/ohrm_logo.png&quot;"
+            :login-banner-src="&quot;\/web\/images\/ohrm_branding.png?v=1721393199309&quot;"
+            :show-social-media="true"
+            :is-demo-mode="true"
+            :authenticators="[]"
+        >
+    <template v-slot:footer>
+        <div class="orangehrm-copyright-wrapper">
+            <oxd-text tag="p" class="orangehrm-copyright">OrangeHRM OS 5.7</oxd-text>
+<oxd-text tag="p" class="orangehrm-copyright">&copy; 2005 - 2025 <a href="http://www.orangehrm.com" target="_blank">OrangeHRM, Inc</a>. All rights reserved.</oxd-text>
+        </div>
+    </template>
+    </auth-login>
+    </div>
+    <script type="text/javascript">
+        window.appGlobal = {
+          baseUrl: "/web/index.php",
+          publicPath: "/web",
+        };
+    </script>
+    <script src="/web/dist/js/chunk-vendors.js?v=1721393199309"></script>
+    <script src="/web/dist/js/app.js?v=1721393199309"></script>
+</body>
+</html>
+2025-06-03 22:33:26,937 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:33:27,488 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:33:27,713 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:33:28,324 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/validate HTTP/1.1" 302 None
+2025-06-03 22:33:28,583 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "GET /web/index.php/auth/login HTTP/1.1" 200 None
+2025-06-03 22:33:28,643 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AttributeError: module 'logging' has no attribute 'indo'. Did you mean: 'info'?
+2025-06-03 22:33:53,611 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:33:54,231 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:33:54,422 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:33:55,239 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/validate HTTP/1.1" 302 None
+2025-06-03 22:33:55,507 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "GET /web/index.php/auth/login HTTP/1.1" 200 None
+2025-06-03 22:33:55,509 [INFO] <RequestsCookieJar[]>
+2025-06-03 22:34:05,355 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Locator expected to have text 'Dashboard'
+Actual value: <element(s) not found> 
+Call log:
+  - LocatorAssertions.to_have_text with timeout 5000ms
+  - waiting for get_by_role("heading", name="Dashboard")
+2025-06-03 22:35:27,230 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:35:27,746 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:35:27,950 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:35:28,554 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/validate HTTP/1.1" 302 None
+2025-06-03 22:35:30,627 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "GET /web/index.php/auth/login HTTP/1.1" 200 None
+2025-06-03 22:35:30,628 [INFO] <RequestsCookieJar[]>
+2025-06-03 22:36:06,452 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:36:07,040 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:36:07,198 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:36:07,796 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/validate HTTP/1.1" 302 None
+2025-06-03 22:36:08,105 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "GET /web/index.php/auth/login HTTP/1.1" 200 None
+2025-06-03 22:36:08,106 [INFO] []
+2025-06-03 22:44:06,271 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:44:06,859 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:44:07,041 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:44:08,086 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/validate HTTP/1.1" 302 None
+2025-06-03 22:44:08,359 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "GET /web/index.php/auth/login HTTP/1.1" 200 None
+2025-06-03 22:44:08,421 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+Exception: ❌ Авторизация не удалась
+2025-06-03 22:45:10,944 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:45:11,517 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:45:11,670 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:45:12,263 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/validate HTTP/1.1" 302 None
+2025-06-03 22:45:12,515 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "GET /web/index.php/auth/login HTTP/1.1" 200 None
+2025-06-03 22:45:12,516 [INFO] []
+2025-06-03 22:46:34,652 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:46:35,230 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:46:35,385 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:46:36,014 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/validate HTTP/1.1" 302 None
+2025-06-03 22:46:36,343 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "GET /web/index.php/auth/login HTTP/1.1" 200 None
+2025-06-03 22:46:36,401 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Login failed <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>OrangeHRM</title>
+      <link rel="icon" href="/web/dist/favicon.ico?v=1721393199309">
+    <link href="/web/dist/css/chunk-vendors.css?v=1721393199309" rel="preload" as="style">
+    <link href="/web/dist/css/app.css?v=1721393199309" rel="preload" as="style">
+    <link href="/web/dist/js/chunk-vendors.js?v=1721393199309" rel="preload" as="script">
+    <link href="/web/dist/js/app.js?v=1721393199309" rel="preload" as="script">
+      <link href="/web/dist/css/chunk-vendors.css?v=1721393199309" rel="stylesheet"/>
+    <link href="/web/dist/css/app.css?v=1721393199309" rel="stylesheet"/>
+</head>
+<body>
+  <style>
+    :root {
+            --oxd-primary-one-color:#FF7B1D;
+            --oxd-primary-font-color:#FFFFFF;
+            --oxd-secondary-four-color:#76BC21;
+            --oxd-secondary-font-color:#FFFFFF;
+            --oxd-primary-gradient-start-color:#FF920B;
+            --oxd-primary-gradient-end-color:#F35C17;
+            --oxd-secondary-gradient-start-color:#FF920B;
+            --oxd-secondary-gradient-end-color:#F35C17;
+            --oxd-primary-one-lighten-5-color:#ff8a37;
+            --oxd-primary-one-lighten-30-color:#ffd4b6;
+            --oxd-primary-one-darken-5-color:#ff6c03;
+            --oxd-primary-one-alpha-10-color:rgba(255, 123, 29, 0.1);
+            --oxd-primary-one-alpha-15-color:rgba(255, 123, 29, 0.15);
+            --oxd-primary-one-alpha-20-color:rgba(255, 123, 29, 0.2);
+            --oxd-primary-one-alpha-50-color:rgba(255, 123, 29, 0.5);
+            --oxd-secondary-four-lighten-5-color:#84d225;
+            --oxd-secondary-four-darken-5-color:#68a61d;
+            --oxd-secondary-four-alpha-10-color:rgba(118, 188, 33, 0.1);
+            --oxd-secondary-four-alpha-15-color:rgba(118, 188, 33, 0.15);
+            --oxd-secondary-four-alpha-20-color:rgba(118, 188, 33, 0.2);
+            --oxd-secondary-four-alpha-50-color:rgba(118, 188, 33, 0.5);
+        }
+  </style>
+    <noscript>
+        <strong>
+            We're sorry but orangehrm doesn't work properly without JavaScript enabled. Please enable it to continue.
+        </strong>
+    </noscript>
+
+    <div id="app">
+    <auth-login
+            :error="{&quot;error&quot;:&quot;invalid_csrf_token&quot;,&quot;message&quot;:&quot;CSRF token validation failed&quot;}"
+            :token="&quot;8c56f46de63bd541ebac0f256.eLTs7dPisWNQzUIDB-re4jY15IY4QnuHEGhFkHmkLwI.HeHBip20nDUYjDNhNYXstn98kv4KK0nTdjoa_CHte3Mp5pTAu6b_G2CSFw&quot;"
+            :login-logo-src="&quot;\/web\/images\/ohrm_logo.png&quot;"
+            :login-banner-src="&quot;\/web\/images\/ohrm_branding.png?v=1721393199309&quot;"
+            :show-social-media="true"
+            :is-demo-mode="true"
+            :authenticators="[]"
+        >
+    <template v-slot:footer>
+        <div class="orangehrm-copyright-wrapper">
+            <oxd-text tag="p" class="orangehrm-copyright">OrangeHRM OS 5.7</oxd-text>
+<oxd-text tag="p" class="orangehrm-copyright">&copy; 2005 - 2025 <a href="http://www.orangehrm.com" target="_blank">OrangeHRM, Inc</a>. All rights reserved.</oxd-text>
+        </div>
+    </template>
+    </auth-login>
+    </div>
+    <script type="text/javascript">
+        window.appGlobal = {
+          baseUrl: "/web/index.php",
+          publicPath: "/web",
+        };
+    </script>
+    <script src="/web/dist/js/chunk-vendors.js?v=1721393199309"></script>
+    <script src="/web/dist/js/app.js?v=1721393199309"></script>
+</body>
+</html>
+2025-06-03 22:50:10,752 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:50:11,132 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:50:11,186 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:50:11,911 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/validate HTTP/1.1" 302 None
+2025-06-03 22:50:12,178 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "GET /web/index.php/auth/login HTTP/1.1" 200 None
+2025-06-03 22:50:12,210 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Login failed <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>OrangeHRM</title>
+      <link rel="icon" href="/web/dist/favicon.ico?v=1721393199309">
+    <link href="/web/dist/css/chunk-vendors.css?v=1721393199309" rel="preload" as="style">
+    <link href="/web/dist/css/app.css?v=1721393199309" rel="preload" as="style">
+    <link href="/web/dist/js/chunk-vendors.js?v=1721393199309" rel="preload" as="script">
+    <link href="/web/dist/js/app.js?v=1721393199309" rel="preload" as="script">
+      <link href="/web/dist/css/chunk-vendors.css?v=1721393199309" rel="stylesheet"/>
+    <link href="/web/dist/css/app.css?v=1721393199309" rel="stylesheet"/>
+</head>
+<body>
+  <style>
+    :root {
+            --oxd-primary-one-color:#FF7B1D;
+            --oxd-primary-font-color:#FFFFFF;
+            --oxd-secondary-four-color:#76BC21;
+            --oxd-secondary-font-color:#FFFFFF;
+            --oxd-primary-gradient-start-color:#FF920B;
+            --oxd-primary-gradient-end-color:#F35C17;
+            --oxd-secondary-gradient-start-color:#FF920B;
+            --oxd-secondary-gradient-end-color:#F35C17;
+            --oxd-primary-one-lighten-5-color:#ff8a37;
+            --oxd-primary-one-lighten-30-color:#ffd4b6;
+            --oxd-primary-one-darken-5-color:#ff6c03;
+            --oxd-primary-one-alpha-10-color:rgba(255, 123, 29, 0.1);
+            --oxd-primary-one-alpha-15-color:rgba(255, 123, 29, 0.15);
+            --oxd-primary-one-alpha-20-color:rgba(255, 123, 29, 0.2);
+            --oxd-primary-one-alpha-50-color:rgba(255, 123, 29, 0.5);
+            --oxd-secondary-four-lighten-5-color:#84d225;
+            --oxd-secondary-four-darken-5-color:#68a61d;
+            --oxd-secondary-four-alpha-10-color:rgba(118, 188, 33, 0.1);
+            --oxd-secondary-four-alpha-15-color:rgba(118, 188, 33, 0.15);
+            --oxd-secondary-four-alpha-20-color:rgba(118, 188, 33, 0.2);
+            --oxd-secondary-four-alpha-50-color:rgba(118, 188, 33, 0.5);
+        }
+  </style>
+    <noscript>
+        <strong>
+            We're sorry but orangehrm doesn't work properly without JavaScript enabled. Please enable it to continue.
+        </strong>
+    </noscript>
+
+    <div id="app">
+    <auth-login
+            :error="{&quot;error&quot;:&quot;invalid_csrf_token&quot;,&quot;message&quot;:&quot;CSRF token validation failed&quot;}"
+            :token="&quot;9c3d9cd8b074a1feec31d070dfba.2_HZ1nzqTseDKnCCTJD9qRo2AZdeZxTHO6gFoYTv_o0.6MmDrhKwH6LvRBXlAKS332tYcvspCmOITe5Hy_SEhueTvJOGOaEpsOJ_SA&quot;"
+            :login-logo-src="&quot;\/web\/images\/ohrm_logo.png&quot;"
+            :login-banner-src="&quot;\/web\/images\/ohrm_branding.png?v=1721393199309&quot;"
+            :show-social-media="true"
+            :is-demo-mode="true"
+            :authenticators="[]"
+        >
+    <template v-slot:footer>
+        <div class="orangehrm-copyright-wrapper">
+            <oxd-text tag="p" class="orangehrm-copyright">OrangeHRM OS 5.7</oxd-text>
+<oxd-text tag="p" class="orangehrm-copyright">&copy; 2005 - 2025 <a href="http://www.orangehrm.com" target="_blank">OrangeHRM, Inc</a>. All rights reserved.</oxd-text>
+        </div>
+    </template>
+    </auth-login>
+    </div>
+    <script type="text/javascript">
+        window.appGlobal = {
+          baseUrl: "/web/index.php",
+          publicPath: "/web",
+        };
+    </script>
+    <script src="/web/dist/js/chunk-vendors.js?v=1721393199309"></script>
+    <script src="/web/dist/js/app.js?v=1721393199309"></script>
+</body>
+</html>
+2025-06-03 22:53:46,873 [DEBUG] Using selector: EpollSelector
+2025-06-03 22:53:47,266 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-03 22:53:47,334 [DEBUG] Starting new HTTPS connection (1): opensource-demo.orangehrmlive.com:443
+2025-06-03 22:53:47,995 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "POST /web/index.php/auth/validate HTTP/1.1" 302 None
+2025-06-03 22:53:48,248 [DEBUG] https://opensource-demo.orangehrmlive.com:443 "GET /web/index.php/auth/login HTTP/1.1" 200 None
+2025-06-03 22:53:48,290 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+Exception: Login failed
+2025-06-04 09:18:39,093 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:18:39,978 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:18:40,117 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:7000
+2025-06-04 09:18:40,246 [DEBUG] http://2.59.41.2:7000 "POST /auth/login HTTP/1.1" 200 None
+2025-06-04 09:18:40,307 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Login failed <!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="icon" href="/favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Web site created using create-react-app"/><link rel="apple-touch-icon" href="/logo192.png"/><link rel="manifest" href="/manifest.json"/><title>React App</title><script defer="defer" src="/static/js/main.38777519.js"></script><link href="/static/css/main.835da972.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>
+2025-06-04 09:24:29,438 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:24:29,890 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:24:29,936 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:7000
+2025-06-04 09:24:30,073 [DEBUG] http://2.59.41.2:7000 "POST /auth/login HTTP/1.1" 200 None
+2025-06-04 09:24:30,138 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-06-04 09:24:53,590 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:24:53,976 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:24:54,035 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:7000
+2025-06-04 09:24:54,161 [DEBUG] http://2.59.41.2:7000 "POST /auth/login HTTP/1.1" 200 None
+2025-06-04 09:24:54,225 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-06-04 09:26:40,100 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:26:40,488 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:26:40,543 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:7000
+2025-06-04 09:26:40,673 [DEBUG] http://2.59.41.2:7000 "POST /auth/login HTTP/1.1" 200 None
+2025-06-04 09:26:40,674 [INFO] <bound method Response.json of <Response [200]>>
+2025-06-04 09:27:01,416 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:27:01,786 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:27:01,841 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:7000
+2025-06-04 09:27:01,970 [DEBUG] http://2.59.41.2:7000 "POST /auth/login HTTP/1.1" 200 None
+2025-06-04 09:27:02,015 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-06-04 09:27:57,847 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:27:58,244 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:27:58,299 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:7000
+2025-06-04 09:27:58,437 [DEBUG] http://2.59.41.2:7000 "POST /auth/login HTTP/1.1" 200 None
+2025-06-04 09:27:58,437 [INFO] <!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="icon" href="/favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Web site created using create-react-app"/><link rel="apple-touch-icon" href="/logo192.png"/><link rel="manifest" href="/manifest.json"/><title>React App</title><script defer="defer" src="/static/js/main.38777519.js"></script><link href="/static/css/main.835da972.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>
+2025-06-04 09:31:18,010 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:31:18,436 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:31:18,492 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:7000
+2025-06-04 09:31:18,621 [DEBUG] http://2.59.41.2:7000 "POST /auth/login HTTP/1.1" 200 None
+2025-06-04 09:31:18,622 [INFO] None
+2025-06-04 09:32:10,175 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:32:10,555 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:32:10,618 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:7000
+2025-06-04 09:32:10,745 [DEBUG] http://2.59.41.2:7000 "POST /api/login HTTP/1.1" 200 None
+2025-06-04 09:32:10,745 [INFO] None
+2025-06-04 09:34:14,931 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:34:15,320 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:34:15,383 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:7000
+2025-06-04 09:34:15,512 [DEBUG] http://2.59.41.2:7000 "POST /api/login HTTP/1.1" 200 None
+2025-06-04 09:34:15,512 [INFO] Content-Type:" text/html
+2025-06-04 09:34:15,512 [INFO] None
+2025-06-04 09:34:41,659 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:34:42,047 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:34:42,112 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:7000
+2025-06-04 09:34:42,243 [DEBUG] http://2.59.41.2:7000 "POST /api/login HTTP/1.1" 200 None
+2025-06-04 09:34:42,244 [INFO] Content-Type:" text/html
+2025-06-04 09:34:42,244 [INFO] Ошибка: Не удалось распарсить JSON
+2025-06-04 09:34:42,244 [INFO] None
+2025-06-04 09:35:34,397 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:35:34,775 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:35:34,834 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:7000
+2025-06-04 09:35:34,966 [DEBUG] http://2.59.41.2:7000 "POST /api/login HTTP/1.1" 200 None
+2025-06-04 09:35:35,034 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-06-04 09:35:54,840 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:35:55,222 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:35:55,275 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:7000
+2025-06-04 09:35:55,405 [DEBUG] http://2.59.41.2:7000 "POST /api/login HTTP/1.1" 200 None
+2025-06-04 09:35:55,440 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+TypeError: 'str' object is not callable
+2025-06-04 09:36:29,751 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:36:30,131 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:36:30,179 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:7000
+2025-06-04 09:36:30,457 [DEBUG] http://2.59.41.2:7000 "POST /api/login HTTP/1.1" 200 None
+2025-06-04 09:36:30,458 [INFO] JSON:" <!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="icon" href="/favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Web site created using create-react-app"/><link rel="apple-touch-icon" href="/logo192.png"/><link rel="manifest" href="/manifest.json"/><title>React App</title><script defer="defer" src="/static/js/main.38777519.js"></script><link href="/static/css/main.835da972.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>
+2025-06-04 09:36:30,458 [INFO] None
+2025-06-04 09:37:20,923 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:37:21,323 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:37:21,374 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 09:37:21,518 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 09:37:21,545 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Login failed {"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTE4NDEsImV4cCI6MTc0OTAxMjc0MX0.hnqGeqGDaz_xXaPLPIzFvB1UQhQv_hTYU7Hap4hgdpo","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTE4NDEsImV4cCI6MTc1MTYwMzg0MX0.k_-RuCfPh26uThETNUjlem6rhS3fxQEcLHckh8laRb4","user":{"email":"textmail@gmail.com","id":1011}}
+2025-06-04 09:37:49,355 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:37:49,742 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:37:49,792 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 09:37:49,935 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 09:37:49,967 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AssertionError: Login failed {"accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTE4NjksImV4cCI6MTc0OTAxMjc2OX0.QT5oSkFaKIW9l7QCuDtU2tSAQnyGNwXsEaam3niFu_0","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTE4NjksImV4cCI6MTc1MTYwMzg2OX0.MuG9ECToXIUiorClk_OiWiM15_6C5tf844t5Isfp7sQ","user":{"email":"textmail@gmail.com","id":1011}}
+2025-06-04 09:38:07,855 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:38:08,234 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:38:08,291 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 09:38:08,434 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 09:38:08,435 [INFO] JSON:" {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTE4ODgsImV4cCI6MTc0OTAxMjc4OH0.nsoF7_6hduFC-rE3UL_KHWQiTED5MWEE5HY0o1LKZnY', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTE4ODgsImV4cCI6MTc1MTYwMzg4OH0.9hfAt6ZFx4YqWuxpHV3D_4bxufcgniGbjrMxxFz1bHc', 'user': {'email': 'textmail@gmail.com', 'id': 1011}}
+2025-06-04 09:38:08,435 [INFO] None
+2025-06-04 09:38:50,018 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:38:50,409 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:38:50,465 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 09:38:50,609 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 09:38:50,648 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+KeyError: ('accessToken', 'refreshToken')
+2025-06-04 09:39:05,392 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:39:05,772 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:39:05,832 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 09:39:05,982 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 09:39:06,009 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+TypeError: string indices must be integers, not 'str'
+2025-06-04 09:40:02,379 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:40:02,765 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:40:02,818 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 09:40:02,970 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 09:40:02,971 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTIwMDIsImV4cCI6MTc0OTAxMjkwMn0.90Jc8mZ9wjpuAtq5zZ42ObvZL3XxVraLLfjqabB-R4M', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTIwMDIsImV4cCI6MTc1MTYwNDAwMn0.c8L1nPwfQ94v2zrqp0VUQlzKCXPbjnadkqihVUB18K0', 'user': {'email': 'textmail@gmail.com', 'id': 1011}}
+2025-06-04 09:48:33,522 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:48:34,692 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:48:35,249 [INFO] None, None
+2025-06-04 09:49:03,571 [DEBUG] Using selector: EpollSelector
+2025-06-04 09:49:04,677 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 09:49:04,965 [INFO] None, None
+2025-06-04 10:28:07,817 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:28:11,705 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:28:11,831 [INFO] None, None
+2025-06-04 10:29:52,996 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:29:53,510 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:29:53,558 [INFO] None, None
+2025-06-04 10:30:21,703 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:30:22,091 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:30:22,155 [INFO] None, None
+2025-06-04 10:31:53,607 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:31:53,991 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:31:54,049 [INFO] None, None
+2025-06-04 10:32:21,962 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:32:22,342 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:32:22,401 [INFO] None, None
+2025-06-04 10:32:44,404 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:32:44,794 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:32:44,855 [INFO] None, None
+2025-06-04 10:33:55,002 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:33:55,372 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:33:55,425 [INFO] None, None
+2025-06-04 10:34:09,994 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:34:10,379 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:34:10,442 [INFO] None, None
+2025-06-04 10:34:29,226 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:34:29,602 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:34:29,653 [INFO] None, None
+2025-06-04 10:35:24,492 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:35:24,892 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:35:24,953 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 10:35:25,112 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 10:35:25,113 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTUzMjUsImV4cCI6MTc0OTAxNjIyNX0.xP2BL0XkgRXgki5bpbBQPosF2-9-1vD4ixQVqbwGXBk', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTUzMjUsImV4cCI6MTc1MTYwNzMyNX0.Wr0vj-XvQeKdELXUdrL10WzffahbD4ZXIwMdjHDQbHs', 'user': {'email': 'textmail@gmail.com', 'id': 1011}}
+2025-06-04 10:35:25,165 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+TypeError: 'method' object is not subscriptable
+2025-06-04 10:37:37,637 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:37:38,036 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:37:38,095 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 10:37:38,242 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 10:37:38,243 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU0NTgsImV4cCI6MTc0OTAxNjM1OH0.1FHIjoApJb5_YmHmFDL4-8tzyZjlJbVFLVvuYAeJTik', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU0NTgsImV4cCI6MTc1MTYwNzQ1OH0.TrUObq24HZ_hDgaVdpivwPwTmetE8K2-qBVi4hWrvsw', 'user': {'email': 'textmail@gmail.com', 'id': 1011}}
+2025-06-04 10:37:38,309 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/hama/Документы/PythonTests/playwright_project_2/pages/config/.env'
+2025-06-04 10:38:53,353 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:38:53,735 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:38:53,788 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 10:38:53,947 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 10:38:53,948 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU1MzMsImV4cCI6MTc0OTAxNjQzM30.-d7BopbH3gWdAg8H-dBDWZxPad-4nHbU8swCeHDE6_4', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU1MzMsImV4cCI6MTc1MTYwNzUzM30.NsVfhucU38nQg3DJyfkESn01psCNLUcNHI0kfKz6cbI', 'user': {'email': 'textmail@gmail.com', 'id': 1011}}
+2025-06-04 10:38:54,017 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+FileNotFoundError: [Errno 2] No such file or directory: 'config/.env'
+2025-06-04 10:39:05,588 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:39:05,985 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:39:06,037 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 10:39:06,184 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 10:39:06,185 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU1NDYsImV4cCI6MTc0OTAxNjQ0Nn0.H_cUKOo6BuyaI53j9NIxWEmENMP9hXtyFhWf5o_NEZU', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU1NDYsImV4cCI6MTc1MTYwNzU0Nn0.bDcQEoX2OzA5E_PvgokpSn0VScPLqmZngai_GFhz8Wk', 'user': {'email': 'textmail@gmail.com', 'id': 1011}}
+2025-06-04 10:39:06,218 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+TypeError: expected str, bytes or os.PathLike object, not module
+2025-06-04 10:41:53,626 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:41:54,030 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:41:54,080 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 10:41:54,229 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 10:41:54,230 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU3MTQsImV4cCI6MTc0OTAxNjYxNH0.awzlhx7idjwxo2neRiL0xuffZtKgMTa_pa6epypAPdQ', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU3MTQsImV4cCI6MTc1MTYwNzcxNH0.5LROOdNvjQR9HMHKKEc39Z9eEkApBQOZn7g4CVLR6Dk', 'user': {'email': 'textmail@gmail.com', 'id': 1011}}
+2025-06-04 10:41:54,261 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+KeyError: 'refresh_token'
+2025-06-04 10:42:08,903 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:42:09,289 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:42:09,345 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 10:42:09,505 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 10:42:09,507 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU3MjksImV4cCI6MTc0OTAxNjYyOX0.PLOYgbJjSWzAE3YdJOkI1D9vK_2yOVR-AB2-35yV9yY', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU3MjksImV4cCI6MTc1MTYwNzcyOX0.UkCrcDRZReUhwGDztTe2ilObY72fLS0m-s_H7Amly34', 'user': {'email': 'textmail@gmail.com', 'id': 1011}}
+2025-06-04 10:42:09,511 [INFO] eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU3MTQsImV4cCI6MTc0OTAxNjYxNH0.awzlhx7idjwxo2neRiL0xuffZtKgMTa_pa6epypAPdQ, None
+2025-06-04 10:43:22,578 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:43:22,960 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:43:23,013 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 10:43:23,164 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 10:43:23,168 [INFO] eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU3MjksImV4cCI6MTc0OTAxNjYyOX0.PLOYgbJjSWzAE3YdJOkI1D9vK_2yOVR-AB2-35yV9yY, eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU3MjksImV4cCI6MTc1MTYwNzcyOX0.UkCrcDRZReUhwGDztTe2ilObY72fLS0m-s_H7Amly34
+2025-06-04 10:43:49,394 [DEBUG] Using selector: EpollSelector
+2025-06-04 10:43:49,772 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 10:43:49,826 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 10:43:49,972 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 10:43:49,976 [INFO] eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU4MDMsImV4cCI6MTc0OTAxNjcwM30.Yd79b16ls1_8ItS2LzxhO1yEqzrT9UXCcKBNN8ZD2zE RToken eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU4MDMsImV4cCI6MTc1MTYwNzgwM30.HHU1Hgp31XB5VcmlZ45SOiv6EYBPcxZxGiMosuNRlPU
+2025-06-04 12:40:05,901 [DEBUG] Using selector: EpollSelector
+2025-06-04 12:40:06,286 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 12:40:06,343 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 12:40:06,489 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 12:40:06,493 [INFO] ATokeneyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU4MjksImV4cCI6MTc0OTAxNjcyOX0.mIqZDLq7L7778YZq95dgyB4JHRkeHnkSuOsG2BQAgEk 
+  RToken eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMTU4MjksImV4cCI6MTc1MTYwNzgyOX0.YWb-v7BpnRGJ4qTKq5-g5h4Gt5-v83YEHWTocEzRUQc
+2025-06-04 12:40:31,314 [DEBUG] Using selector: EpollSelector
+2025-06-04 12:40:31,704 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 12:40:31,750 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 12:40:31,897 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 12:40:31,901 [INFO] AToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMjI4MDYsImV4cCI6MTc0OTAyMzcwNn0.6-VscRgqfov1HWMew6ku3RyB_s19wSprKeUa8lh8WZg
+RToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMjI4MDYsImV4cCI6MTc1MTYxNDgwNn0.6mi2eNbFkdiKqGs65UHrfxQ4sYMAASaKbDUQWd0NtMQ
+2025-06-04 12:51:09,650 [DEBUG] Using selector: EpollSelector
+2025-06-04 12:51:10,033 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 12:51:10,084 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 12:51:10,238 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 12:51:10,242 [INFO] AToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMjI4MzEsImV4cCI6MTc0OTAyMzczMX0.YZ5t71tKgtPFhN9bJhm8Y-n37rk-B1GzPK4i0Wf7ox4
+RToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMjI4MzEsImV4cCI6MTc1MTYxNDgzMX0.tHgcUPLOKMBZ3YV1EF-1n2qfjl-GvcOYmAPkkiRGDdo
+2025-06-04 12:57:33,956 [DEBUG] Using selector: EpollSelector
+2025-06-04 12:57:34,874 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 12:57:35,206 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 12:57:35,355 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 12:57:35,357 [INFO] AToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMjM0NzAsImV4cCI6MTc0OTAyNDM3MH0.Xg-TNlRIBdMP9ZSRUYOc5x9sfBaqUYzSPI_5ndMr8cs
+RToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMjM0NzAsImV4cCI6MTc1MTYxNTQ3MH0.LkP6vW5ibR7wTEg8lUxjO-cXse-Av9I_ErEgDsQJHhk
+2025-06-04 12:58:43,927 [DEBUG] Using selector: EpollSelector
+2025-06-04 12:58:44,490 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 12:58:44,685 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 12:58:44,833 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 12:58:44,835 [INFO] AToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMjM4NTUsImV4cCI6MTc0OTAyNDc1NX0.DyxuonypPaQS_GEUCYeovqsz5zzrMkIVMoNFR2uK6LI
+RToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMjM4NTUsImV4cCI6MTc1MTYxNTg1NX0.76LYcsT5SG4wHurw71y6O3Yu645fi-GDf1qIBoZu1x0
+2025-06-04 13:04:22,555 [DEBUG] Using selector: EpollSelector
+2025-06-04 13:04:23,143 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 13:04:23,302 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 13:04:23,447 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 13:04:23,448 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQyNjMsImV4cCI6MTc0OTAyNTE2M30.rspB8fUOQJohXlGxxIMIeSpNrdVl2BlQheTCVacFWbo', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQyNjMsImV4cCI6MTc1MTYxNjI2M30.eQ5DyFuhk-ysGhrQfK3yZnpHa2fBiWWKM7yjcVVTePg', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 13:04:23,451 [INFO] AToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMjM5MjQsImV4cCI6MTc0OTAyNDgyNH0.AAOBCJma_UBzB5wuah9BeBLE06IpaQkwYzu9tZMaSkk
+RToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRleHRtYWlsQGdtYWlsLmNvbSIsImlkIjoxMDExLCJpYXQiOjE3NDkwMjM5MjQsImV4cCI6MTc1MTYxNTkyNH0.7dRQx4qE13MjDJp8kcs8SbMvHbekWynom4vWblr5-wY
+2025-06-04 13:04:44,502 [DEBUG] Using selector: EpollSelector
+2025-06-04 13:04:45,081 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 13:04:45,226 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 13:04:45,363 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 13:04:45,364 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQyODUsImV4cCI6MTc0OTAyNTE4NX0.JRpmdjeM2m1C7D-XsChfvBZHDYfe_sJLB1oQTkkBU5Y', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQyODUsImV4cCI6MTc1MTYxNjI4NX0.IiizfWhN15s7RhghZ0rwEfsr--NihXH3L4M4uujhfzA', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 13:04:45,367 [INFO] AToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQyNjMsImV4cCI6MTc0OTAyNTE2M30.rspB8fUOQJohXlGxxIMIeSpNrdVl2BlQheTCVacFWbo
+RToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQyNjMsImV4cCI6MTc1MTYxNjI2M30.eQ5DyFuhk-ysGhrQfK3yZnpHa2fBiWWKM7yjcVVTePg
+2025-06-04 13:05:19,847 [DEBUG] Using selector: EpollSelector
+2025-06-04 13:05:20,434 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 13:05:20,583 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 13:05:20,747 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 13:05:20,748 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQzMjAsImV4cCI6MTc0OTAyNTIyMH0.baouSV-1BC7cg5O6XyxNpKIgfThKB4wyE1N_EXjjeEc', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQzMjAsImV4cCI6MTc1MTYxNjMyMH0.Wvgyrj_2xxFBS53TtvULX_n5Ith85NiSRWSRJ_coptI', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 13:05:20,750 [INFO] AToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQyODUsImV4cCI6MTc0OTAyNTE4NX0.JRpmdjeM2m1C7D-XsChfvBZHDYfe_sJLB1oQTkkBU5Y
+RToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQyODUsImV4cCI6MTc1MTYxNjI4NX0.IiizfWhN15s7RhghZ0rwEfsr--NihXH3L4M4uujhfzA
+2025-06-04 13:11:36,406 [DEBUG] Using selector: EpollSelector
+2025-06-04 13:11:36,980 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 13:11:37,136 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 13:11:37,299 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 13:11:37,300 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQ2OTcsImV4cCI6MTc0OTAyNTU5N30.8H3W9nCFi6cmerIo4regCMIepZYF4lQe1gc2soXjP08', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQ2OTcsImV4cCI6MTc1MTYxNjY5N30.m6ey2xXZmoc1jzvcoGVyCinCDNwVSRbLjdEPUPtV9Qs', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 13:11:37,303 [INFO] AToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQzMjAsImV4cCI6MTc0OTAyNTIyMH0.baouSV-1BC7cg5O6XyxNpKIgfThKB4wyE1N_EXjjeEc
+RToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQzMjAsImV4cCI6MTc1MTYxNjMyMH0.Wvgyrj_2xxFBS53TtvULX_n5Ith85NiSRWSRJ_coptI
+2025-06-04 13:11:39,751 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AttributeError: 'dict' object has no attribute '_object'
+2025-06-04 13:14:19,885 [DEBUG] Using selector: EpollSelector
+2025-06-04 13:14:20,474 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 13:14:20,660 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 13:14:20,808 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 13:14:20,808 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQ4NjAsImV4cCI6MTc0OTAyNTc2MH0.G4apzAItVbqgLE1UvBA186nqn_gkxx9dIFAvvT8akSc', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQ4NjAsImV4cCI6MTc1MTYxNjg2MH0.MPKDvjOGjlp8JFIhbogEe2xiLDq7jXaPiqiRoaL5GPQ', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 13:14:20,810 [INFO] AToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQ2OTcsImV4cCI6MTc0OTAyNTU5N30.8H3W9nCFi6cmerIo4regCMIepZYF4lQe1gc2soXjP08
+RToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQ2OTcsImV4cCI6MTc1MTYxNjY5N30.m6ey2xXZmoc1jzvcoGVyCinCDNwVSRbLjdEPUPtV9Qs
+2025-06-04 13:14:20,850 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+TypeError: Page.goto() got an unexpected keyword argument 'headers'
+2025-06-04 13:16:57,626 [DEBUG] Using selector: EpollSelector
+2025-06-04 13:16:58,217 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 13:16:58,410 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 13:16:58,560 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 13:16:58,561 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjUwMTgsImV4cCI6MTc0OTAyNTkxOH0.pTkdwnbrQZntDAski0V-F1f3WejCQ8ixJU9Y1Bqkw7s', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjUwMTgsImV4cCI6MTc1MTYxNzAxOH0.hnB6en0r98IEuMvYWZUA2wvwGTQrYdN310GubcNgjow', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 13:16:58,562 [INFO] AToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQ4NjAsImV4cCI6MTc0OTAyNTc2MH0.G4apzAItVbqgLE1UvBA186nqn_gkxx9dIFAvvT8akSc
+RToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjQ4NjAsImV4cCI6MTc1MTYxNjg2MH0.MPKDvjOGjlp8JFIhbogEe2xiLDq7jXaPiqiRoaL5GPQ
+2025-06-04 13:16:58,609 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AttributeError: 'Page' object has no attribute 'get'
+2025-06-04 13:17:09,238 [DEBUG] Using selector: EpollSelector
+2025-06-04 13:17:09,818 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 13:17:09,979 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 13:17:10,129 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 13:17:10,130 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjUwMzAsImV4cCI6MTc0OTAyNTkzMH0.-Esav2cdHVh6hsq6JyMJWQS6iuGxmeK23DMAQ8A8qUc', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjUwMzAsImV4cCI6MTc1MTYxNzAzMH0.fW4vf0P-z1r3XKwXOuX9SnysWvBGUmuNZI-_JqFStLc', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 13:17:10,132 [INFO] AToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjUwMTgsImV4cCI6MTc0OTAyNTkxOH0.pTkdwnbrQZntDAski0V-F1f3WejCQ8ixJU9Y1Bqkw7s
+RToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjUwMTgsImV4cCI6MTc1MTYxNzAxOH0.hnB6en0r98IEuMvYWZUA2wvwGTQrYdN310GubcNgjow
+2025-06-04 13:17:36,376 [DEBUG] Using selector: EpollSelector
+2025-06-04 13:17:36,982 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 13:17:37,166 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 13:17:37,303 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 13:17:37,304 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjUwNTcsImV4cCI6MTc0OTAyNTk1N30.k-RDU-uuonloDYsUInAtqUnfLF7hyRICda0UdNmRWVU', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjUwNTcsImV4cCI6MTc1MTYxNzA1N30.XrwmskC_qtC89Jmpb4yjL8ZpVzDWg4BTzuWxpyu-BNo', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 13:17:37,306 [INFO] AToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjUwMzAsImV4cCI6MTc0OTAyNTkzMH0.-Esav2cdHVh6hsq6JyMJWQS6iuGxmeK23DMAQ8A8qUc
+RToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjUwMzAsImV4cCI6MTc1MTYxNzAzMH0.fW4vf0P-z1r3XKwXOuX9SnysWvBGUmuNZI-_JqFStLc
+2025-06-04 13:17:37,499 [INFO] []
+2025-06-04 13:18:28,242 [DEBUG] Using selector: EpollSelector
+2025-06-04 13:18:28,822 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 13:18:28,967 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 13:18:29,096 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 13:18:29,097 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjUxMDksImV4cCI6MTc0OTAyNjAwOX0.6VjsDVLb93gGo1PDaBcWpdumt5mD2leJwSKBRxZ9FJ0', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjUxMDksImV4cCI6MTc1MTYxNzEwOX0.fEoy2ufetlxIGkiASvUeovOetlIjr6JlGNodLBjxTEs', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 13:18:29,098 [INFO] AToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjUwNTcsImV4cCI6MTc0OTAyNTk1N30.k-RDU-uuonloDYsUInAtqUnfLF7hyRICda0UdNmRWVU
+RToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMjUwNTcsImV4cCI6MTc1MTYxNzA1N30.XrwmskC_qtC89Jmpb4yjL8ZpVzDWg4BTzuWxpyu-BNo
+2025-06-04 13:18:29,276 [INFO] [{'todo_id': 56621, 'user_id': 65117, 'title': 'asdasd', 'completed': False}, {'todo_id': 56622, 'user_id': 65117, 'title': 'asdads', 'completed': False}, {'todo_id': 56623, 'user_id': 65117, 'title': '132321', 'completed': False}]
+2025-06-04 14:45:11,043 [DEBUG] Using selector: EpollSelector
+2025-06-04 14:45:11,775 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 14:45:12,009 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 14:45:12,160 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 14:45:12,161 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzAzMTIsImV4cCI6MTc0OTAzMTIxMn0.AxfsOSHaGtHvtN29rU-VVxHh7ZDNzhZRBTNhg4zNpwM', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzAzMTIsImV4cCI6MTc1MTYyMjMxMn0.1_KS67LXiZAoEGaheNgve-jiVmuO0aIX0eHPg3rji6U', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 14:45:30,641 [DEBUG] Using selector: EpollSelector
+2025-06-04 14:45:31,174 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 14:45:31,467 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 14:45:31,610 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 14:45:31,612 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzAzMzEsImV4cCI6MTc0OTAzMTIzMX0.btGX1D2XKb8UU3ViafsOgi5xWl3ZKpNpDPsXytA8gps', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzAzMzEsImV4cCI6MTc1MTYyMjMzMX0.oTt7FBdUWfur9uiaNScO2rpwD4anFTOIFjkQLgUVCoo', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 14:45:31,783 [INFO] [{'todo_id': 56621, 'user_id': 65117, 'title': 'asdasd', 'completed': False}, {'todo_id': 56622, 'user_id': 65117, 'title': 'asdads', 'completed': False}, {'todo_id': 56623, 'user_id': 65117, 'title': '132321', 'completed': False}]
+2025-06-04 14:45:57,880 [DEBUG] Using selector: EpollSelector
+2025-06-04 14:45:58,456 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 14:45:58,731 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 14:45:58,878 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 14:45:58,879 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzAzNTgsImV4cCI6MTc0OTAzMTI1OH0.ski6l0Ce6tzIJ7OnhGUI1Pv1YMidRnylpgMtng8Q_Wo', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzAzNTgsImV4cCI6MTc1MTYyMjM1OH0.aZuqqrTUF4kgN119l-BFfMEVwr7yUpghpPrsEPq37AA', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 14:46:48,713 [DEBUG] Using selector: EpollSelector
+2025-06-04 14:46:49,225 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 14:46:49,493 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 14:46:49,647 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 14:46:49,647 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzA0MDksImV4cCI6MTc0OTAzMTMwOX0.oPTENfiHj9KoHdykgaT29pax7byf3tQ8Q6HitA7k2fQ', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzA0MDksImV4cCI6MTc1MTYyMjQwOX0.MqlnGbQoDPML120gYFmbjOPXeLjl-_zGiiCcclHIrvs', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 14:47:00,006 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AttributeError: 'dict' object has no attribute '_object'
+2025-06-04 14:47:40,744 [DEBUG] Using selector: EpollSelector
+2025-06-04 14:47:41,268 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 14:47:41,476 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 14:47:41,654 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 14:47:41,656 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzA0NjEsImV4cCI6MTc0OTAzMTM2MX0.mJMxBWDR1LCq-8e8R3PJQrKlk5YZc8ZAec2s2PMGfRQ', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzA0NjEsImV4cCI6MTc1MTYyMjQ2MX0.T_Y2-QYrpRpn5NfbWyk-um5c24bu-_OaIPLsxihhOq0', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 14:47:52,014 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AttributeError: 'dict' object has no attribute '_object'
+2025-06-04 14:48:59,076 [DEBUG] Using selector: EpollSelector
+2025-06-04 14:48:59,665 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 14:48:59,814 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 14:48:59,950 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 14:48:59,951 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzA1MzksImV4cCI6MTc0OTAzMTQzOX0.ht0vrfjona60-NM51CzYUMWrWiWp15_kUTxRkAr1b6U', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzA1MzksImV4cCI6MTc1MTYyMjUzOX0.yWL7g8umLsKjCUC42HoQQP1-MZyZX5jnZfo_1Kxh-As', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 14:49:11,396 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AttributeError: 'dict' object has no attribute '_object'
+2025-06-04 14:50:03,569 [DEBUG] Using selector: EpollSelector
+2025-06-04 14:50:04,173 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 14:50:04,335 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 14:50:04,470 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 14:50:04,471 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzA2MDQsImV4cCI6MTc0OTAzMTUwNH0.x3-xFkzJrtANBEJThFQT40JttisqnGbfFHS0pNiI8l0', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzA2MDQsImV4cCI6MTc1MTYyMjYwNH0.68oyeFZIVm3lw8yofz34kVot8uKCC7GI5d8_9-qn55A', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 14:50:15,720 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AttributeError: 'dict' object has no attribute '_object'
+2025-06-04 14:50:22,227 [DEBUG] Using selector: EpollSelector
+2025-06-04 14:50:22,803 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 14:50:23,115 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 14:50:23,273 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 14:50:23,274 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzA2MjMsImV4cCI6MTc0OTAzMTUyM30.9Jdw83pAh8EFNwGGDRh-3P-iTRgVqW22tIXFC8KwNCo', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzA2MjMsImV4cCI6MTc1MTYyMjYyM30.WV5kPQly2A_y8-bQii6LD2_3YYE613HRg4E3Xfx6S9I', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 14:50:59,226 [DEBUG] Using selector: EpollSelector
+2025-06-04 14:50:59,749 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 14:50:59,979 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 14:51:00,135 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 14:51:00,136 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzA2NjAsImV4cCI6MTc0OTAzMTU2MH0.HtKGEWkRbWc3Qta22LoPG9p1hpuonGH5EjkxSnJDeek', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzA2NjAsImV4cCI6MTc1MTYyMjY2MH0.7vSaoiJT1Rr-K3KevQWAZ7vWgihcTk1gpY_4CwX7bPU', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 14:53:19,236 [DEBUG] Using selector: EpollSelector
+2025-06-04 14:53:19,802 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 14:53:20,071 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 14:53:20,218 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 14:53:20,219 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzA4MDAsImV4cCI6MTc0OTAzMTcwMH0.bd8krrT3dDObG5F3VAfOxnHkSWY4-oEKzEipWpXtYoo', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzA4MDAsImV4cCI6MTc1MTYyMjgwMH0.YNIgr9Gqd8forcOiu7Z-i7jTaIjAP4eBnIgeAVpMk_s', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 14:58:32,730 [DEBUG] Using selector: EpollSelector
+2025-06-04 14:58:33,251 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 14:58:33,517 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 14:58:33,668 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 14:58:33,669 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzExMTMsImV4cCI6MTc0OTAzMjAxM30.XvUZxO1AXr5CeEHxowAOZUrD4LpaWKDr3XKaQfMl0Ls', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzExMTMsImV4cCI6MTc1MTYyMzExM30.G-_juxgzVK8d00pSOT2USJ_OCxD-vSS7_nLyNbLnjv8', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 14:58:45,224 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AttributeError: 'dict' object has no attribute '_object'
+2025-06-04 14:58:53,994 [DEBUG] Using selector: EpollSelector
+2025-06-04 14:58:54,572 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 14:58:54,720 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 14:58:55,892 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 14:58:55,893 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzExMzQsImV4cCI6MTc0OTAzMjAzNH0.8H3hWkVbApBty2hFleiIIHDA8FS6NXGtz4dPnIe8an4', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzExMzQsImV4cCI6MTc1MTYyMzEzNH0.DDAdbTuknq5fRSK8Vg_bz83dmp-I-L4UqdZIqIqx320', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 15:02:00,318 [DEBUG] Using selector: EpollSelector
+2025-06-04 15:02:00,942 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 15:02:01,104 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 15:02:01,260 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 15:02:01,261 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzEzMjEsImV4cCI6MTc0OTAzMjIyMX0.l5kCbC5rVHKegMUIYQzO8FTze9mRkXVAFHnFIGq7phI', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzEzMjEsImV4cCI6MTc1MTYyMzMyMX0.VeySorgi1Niv0PU-q_2vGETiwpOEoMWF834d9EViB10', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 15:03:28,602 [DEBUG] Using selector: EpollSelector
+2025-06-04 15:03:29,120 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 15:03:29,388 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 15:03:29,524 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 15:03:29,525 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzE0MDksImV4cCI6MTc0OTAzMjMwOX0.4FY6Y1P-TA4nB6IEnrQ6ygJEIuETqJpUlefgnGd8mac', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzE0MDksImV4cCI6MTc1MTYyMzQwOX0.MRuPPMJIhjVZ4WfjjELfMrNl1m6qoCG0vL8C3uD8KKM', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 15:04:21,180 [DEBUG] Using selector: EpollSelector
+2025-06-04 15:04:21,781 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 15:04:21,955 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 15:04:22,113 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 15:04:22,114 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzE0NjIsImV4cCI6MTc0OTAzMjM2Mn0.zU3DBJfr3a9DyESMamZnIZsIdfCZz1S_Rf5wHqXaorc', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzE0NjIsImV4cCI6MTc1MTYyMzQ2Mn0.iuQgMGHCDIjA9E4mMqrmnqXwB_Wz5cv6uDhm0oa5WmM', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 15:14:04,189 [DEBUG] Using selector: EpollSelector
+2025-06-04 15:14:05,163 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 15:14:05,522 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 15:14:05,662 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 15:14:05,662 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzIwNDUsImV4cCI6MTc0OTAzMjk0NX0.ieWSngjqHjvU2xRTsXqEx2WCiXM_HLNErNSqmAemw0U', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzIwNDUsImV4cCI6MTc1MTYyNDA0NX0.eRyUtkKwxGynZuirrWOLtqaR0-uDiDl_1HcUN9zssmM', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 15:14:16,941 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AttributeError: 'dict' object has no attribute '_object'
+2025-06-04 15:14:19,311 [DEBUG] Using selector: EpollSelector
+2025-06-04 15:14:19,852 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 15:14:20,075 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 15:14:20,227 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 15:14:20,228 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzIwNjAsImV4cCI6MTc0OTAzMjk2MH0.40xtz_Y0Ie7znCC4LqQWBvCYKJBqV2BvE7G6UhV7_N8', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzIwNjAsImV4cCI6MTc1MTYyNDA2MH0.i7mWdQ9HbZ-mEEWoMQASPfejDOlfBWlxfLC3hjqdLIY', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 15:14:30,565 [ERROR] Тест 'tests/test_orange.py::test_cookies[chromium]' завершился с ошибкой:
+AttributeError: 'dict' object has no attribute '_object'
+2025-06-04 15:14:47,055 [DEBUG] Using selector: EpollSelector
+2025-06-04 15:14:47,650 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 15:14:47,835 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 15:14:47,971 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 15:14:47,972 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzIwODcsImV4cCI6MTc0OTAzMjk4N30.9wpQp-edY2vG0TtLANKP8Mxr7-BqP10n0tIcS1fPMbE', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzIwODcsImV4cCI6MTc1MTYyNDA4N30.KYCrLL6TQr_tVDUByx-xYB8AJxn-rIrPCjiAgQW8GRw', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 15:15:19,399 [DEBUG] Using selector: EpollSelector
+2025-06-04 15:15:19,984 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 15:15:20,156 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 15:15:20,296 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 15:15:20,297 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzIxMjAsImV4cCI6MTc0OTAzMzAyMH0.3tILmt1Lc8qlptZgeAPlajJAkxyweMaSL4TIsaStRgU', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzIxMjAsImV4cCI6MTc1MTYyNDEyMH0.8Bmv_XG4nDBxf1csgErrrrjGcQayj26s4bv-_Gk7DQo', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 15:15:20,510 [INFO] [{'todo_id': 56621, 'user_id': 65117, 'title': 'asdasd', 'completed': False}, {'todo_id': 56622, 'user_id': 65117, 'title': 'asdads', 'completed': False}, {'todo_id': 56623, 'user_id': 65117, 'title': '132321', 'completed': False}, {'todo_id': 56627, 'user_id': 65117, 'title': 'asdasdad', 'completed': False}]
+2025-06-04 15:15:46,557 [DEBUG] Using selector: EpollSelector
+2025-06-04 15:15:47,072 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 15:15:47,202 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 15:15:47,348 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 15:15:47,349 [INFO] {'accessToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzIxNDcsImV4cCI6MTc0OTAzMzA0N30.I39hIoRbHUhWkyIugon4_DQofGyAC26oc73jAEuZUjA', 'refreshToken': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RMb2xAZ21haWwuY29tIiwiaWQiOjY1MTE3LCJpYXQiOjE3NDkwMzIxNDcsImV4cCI6MTc1MTYyNDE0N30.WpRfRjZO4W9ayY-CEUSiOx6rIEFbE-Q03BJm0ij_vuw', 'user': {'email': 'testLol@gmail.com', 'id': 65117}}
+2025-06-04 15:15:47,555 [INFO] [{'todo_id': 56621, 'user_id': 65117, 'title': 'asdasd', 'completed': False}, {'todo_id': 56622, 'user_id': 65117, 'title': 'asdads', 'completed': False}, {'todo_id': 56623, 'user_id': 65117, 'title': '132321', 'completed': False}, {'todo_id': 56627, 'user_id': 65117, 'title': 'asdasdad', 'completed': False}]
+2025-06-04 15:16:30,133 [DEBUG] Using selector: EpollSelector
+2025-06-04 15:16:30,528 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 15:16:30,585 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 15:16:30,739 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 15:16:30,941 [INFO] [{'todo_id': 56621, 'user_id': 65117, 'title': 'asdasd', 'completed': False}, {'todo_id': 56622, 'user_id': 65117, 'title': 'asdads', 'completed': False}, {'todo_id': 56623, 'user_id': 65117, 'title': '132321', 'completed': False}, {'todo_id': 56627, 'user_id': 65117, 'title': 'asdasdad', 'completed': False}]
+2025-06-04 15:17:02,904 [DEBUG] Using selector: EpollSelector
+2025-06-04 15:17:03,281 [INFO] Запуск теста: test_cookies[chromium] | Браузер: chromium | Файл: test_orange.py
+2025-06-04 15:17:03,331 [DEBUG] Starting new HTTP connection (1): 2.59.41.2:4300
+2025-06-04 15:17:03,488 [DEBUG] http://2.59.41.2:4300 "POST /api/login HTTP/1.1" 201 444
+2025-06-04 15:17:03,676 [INFO] 200
+2025-06-04 15:17:03,679 [INFO] [{'todo_id': 56621, 'user_id': 65117, 'title': 'asdasd', 'completed': False}, {'todo_id': 56622, 'user_id': 65117, 'title': 'asdads', 'completed': False}, {'todo_id': 56623, 'user_id': 65117, 'title': '132321', 'completed': False}, {'todo_id': 56627, 'user_id': 65117, 'title': 'asdasdad', 'completed': False}]

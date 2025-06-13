@@ -10,7 +10,7 @@ from utils import network
 #     page.on('response', lambda response: print('<<', response.status, response.url))
 #     page.goto(settings.LISTEN_NETWORK_URL)
 
-## Фильтрация и прерывания запроса к машруту
+## Фильтрация и прерывания запроса к маршруту
 # def test_filter_listen_network(page: Page):
 #     #Если нужно заблокировать несколько ресурсов  utils/network.py
 #     #network.block_resources(page, types=["script"])

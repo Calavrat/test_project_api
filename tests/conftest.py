@@ -5,20 +5,16 @@ import pytest
 import logging
 from playwright.sync_api import sync_playwright
 from config import settings
-from pages.login_page import LoginPage
-from pages.dashboard_page import DashboardPage
 from pages.dummy_page import DummyPage
-@pytest.fixture
-def login_page(page):
-    return LoginPage(page)
-
-@pytest.fixture
-def dashboard_page(page):
-    return DashboardPage(page)
+from pages.orange_page import OrangePage
 
 @pytest.fixture
 def dummy_page(page):
     return DummyPage(page)
+
+@pytest.fixture
+def orange_page(page):
+    return OrangePage(page)
 
 # Настройка логирования
 if settings.DEBUG:

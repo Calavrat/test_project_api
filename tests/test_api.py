@@ -1,4 +1,3 @@
-import pytest
 import allure
 
 @allure.story('Тестирование api')

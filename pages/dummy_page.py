@@ -4,6 +4,7 @@ import logging
 import time
 import pages.model.dummy_model as model
 import json
+import requests
 
 def send_api_request(context, method, url, data=None, headers=None, max_retries=3):
     """
@@ -13,14 +14,14 @@ def send_api_request(context, method, url, data=None, headers=None, max_retries=
         logging.info(f"Попытка {attempt} — Запрос: {method} {url}")
         
         if method.upper() == 'POST':
-            response = context.request.post(url, data=data, headers=headers)
+            response = requests.post(url, data=data, headers=headers)
         elif method.upper() == 'GET':
-            response = context.request.get(url)
+            response = requests.get(url)
         else:
             raise ValueError(f"Метод '{method}' не поддерживается")
 
-        if response.status == 429:
-            logging.warning("Получен 429 Too Many Requests. Жду 30 секунд...")
+        if response.status_code == 429:
+            logging.warning("Получен 429 Too Many Requests. Жду 5 секунд...")
             time.sleep(5)
         else:
             return response
@@ -33,20 +34,20 @@ class DummyPage:
 
 #API список всех ресурсов
     def getPosts(self):
-        response = self.page.request.get(settings.GET_POSTS)
-        if response.status == 429:
+        response = requests.get(settings.GET_POSTS)
+        if response.status_code == 429:
              time.sleep(5)
-             response = self.page.request.get(settings.GET_POSTS)
+             response = requests.get(settings.GET_POSTS)
 
-        logging.info(f'Статус код: {response.status}')
+        logging.info(f'Статус код: {response.status_code}')
         logging.info(response.json())
 #API создание ресурса
     def createPost(self):
-        response=self.page.request.post(settings.CREATE_POST, data = json.dumps(model.dataCreate), headers=model.headers) 
-        logging.info(f'Статус код: {response.status}')
-        if response.status == 429:
+        response=requests.post(settings.CREATE_POST, data = json.dumps(model.payload), headers=model.headers) 
+        logging.info(f'Статус код: {response.status_code}')
+        if response.status_code == 429:
              time.sleep(20)
-             response=self.page.request.post(settings.CREATE_POST, data = json.dumps(model.dataCreate), headers=model.headers) 
+             response=self.page.request.post(settings.CREATE_POST, data = json.dumps(model.payload), headers=model.headers) 
 
         content_type = response.headers.get('content-type', '')
         # logging.info(f'Content-Type:" {content_type}')
@@ -61,7 +62,7 @@ class DummyPage:
                     # print(get_url)
                     # get_response = send_api_request(self.page, method='GET', url=get_url)
 
-                    # logging.info(f'Статус код: {get_response.status}')
+                    # logging.info(f'Статус код: {get_response.status_code}')
                     # logging.info(f'Cотрудник c id 21: {get_response.json()}')
             except json.JSONDecodeError:
                 logging.info(f"Ошибка: Не удалось распарсить JSON")
@@ -73,12 +74,12 @@ class DummyPage:
     def getPost(self, get_id: str):
         get_url = settings.GET_POST.replace('&',get_id)
         response = send_api_request(self.page, method='GET', url=get_url)
-        logging.info(f'Статус код: {response.status}')
+        logging.info(f'Статус код: {response.status_code}')
         logging.info(f'Ресурс c id {get_id}: {response.json()}')
 
 #API Удаление сотрудника
     def deletePost(self, delete_id: str):
         get_url = settings.DELETE_POST.replace('&', delete_id)
-        response = self.page.request.delete(get_url)
-        logging.info(f'Статус код: {response.status}')
+        response =requests.delete(get_url)
+        logging.info(f'Статус код: {response.status_code}')
         logging.info(f'Ответ об удалении {response.json()}')

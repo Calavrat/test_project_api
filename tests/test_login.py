@@ -24,6 +24,7 @@ def test_login_failure(login_page):
 @allure.title('Авторизация с валидными данными')
 @allure.description('Тест входа с валидными данными')
 @allure.severity(allure.severity_level.MINOR)
+
 @pytest.mark.parametrize('username, password',[
     ('user', 'user'),
     ('admin', 'admin')
