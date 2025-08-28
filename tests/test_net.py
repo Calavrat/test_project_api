@@ -29,6 +29,6 @@ from utils import network
 
 def test_mock(page: Page): 
 #С логированием
-    page.route("**/register", network.mock_reponce_from_file('data/new_data_responce.json'))
+    page.route("**/register", network.mock_reponce_from_file('data/new_data_response.json'))
     page.goto(settings.NETWORK_URL)
     page.get_by_text('Register - successful').click()

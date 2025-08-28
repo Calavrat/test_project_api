@@ -9,7 +9,6 @@ class LoginPage:
         self.password_input = page.get_by_role("textbox", name="Password")
         self.login_button = page.get_by_role("button", name="Login")
         self.error_message=page.get_by_text("Invalid credentials. Please")
-        
 
     def navigate(self):
          ###Открываем страницу логина
