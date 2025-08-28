@@ -2,7 +2,7 @@ import allure
 
 @allure.story('Тестирование api')
 @allure.title('Получение списка ресурсов')
-@allure.description('По ендпоинту получить список ресурсов')
+@allure.description('По ендпоинтУ получить список ресурсов')
 @allure.severity(allure.severity_level.MINOR)
 def test_list_posts(dummy_page):
     with allure.step('Получение списка ресурсов'):

@@ -14,7 +14,6 @@ def getToken():
     set_key(dotenv_path, 'REFRESH_TOKEN', response.json()['refreshToken'])
 
 class OrangePage():
-
     def __init__(self, page: Page):
         self.page = page
         self._setup_auth_headers()

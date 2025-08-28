@@ -2,3 +2,8 @@ pytest
 playwright
 python-dotenv
 allure-pytest
+
+
+Pydantic
+dataclass
+
