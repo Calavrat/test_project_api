@@ -9,7 +9,7 @@ def test_list_posts(dummy_page):
         dummy_page.getPosts()
 
 @allure.story('Тестирование api')
-@allure.title('Создание нового ресурса')
+@allure.title('Создание вбфывюбфывюбфы нового ресурса')
 @allure.description('По ендпоинту создать ресурс ')
 def test_create_post(dummy_page):
     with allure.step('Создание нового ресурса и проверка то что он создан'):
